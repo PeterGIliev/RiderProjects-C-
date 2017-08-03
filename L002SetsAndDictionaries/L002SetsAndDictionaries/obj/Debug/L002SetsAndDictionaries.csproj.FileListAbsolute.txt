@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/L002SetsAndDictionaries/L002SetsAndDictionaries/bin/Debug/L002SetsAndDictionaries.exe
+/Users/peter/RiderProjects/L002SetsAndDictionaries/L002SetsAndDictionaries/bin/Debug/L002SetsAndDictionaries.pdb
+/Users/peter/RiderProjects/L002SetsAndDictionaries/L002SetsAndDictionaries/obj/Debug/L002SetsAndDictionaries.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/L002SetsAndDictionaries/L002SetsAndDictionaries/obj/Debug/L002SetsAndDictionaries.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/L002SetsAndDictionaries/L002SetsAndDictionaries/obj/Debug/L002SetsAndDictionaries.exe
+/Users/peter/RiderProjects/L002SetsAndDictionaries/L002SetsAndDictionaries/obj/Debug/L002SetsAndDictionaries.pdb

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25f8c0f4-05d1-48d3-9f9d-09cfebdbc28e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bench</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/L003Matrices/L002MaximumSumOf2x2Submatrix.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L003Matrices/X007TwoSquaresInMatrix.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L003Matrices/L001SumOfAllElements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L003Matrices/L003GroupNumbers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L003Matrices/X006DiagonalDifference.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L003Matrices/L004PascalTriangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L003Matrices/X009RubiksMatrix.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L003Matrices/X008MaximalSum.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L003Matrices/X005MatrixOfPalindromes.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/L003Matrices/MaximumSumOf2x2Submatrix.cs" />
+        <option value="$PROJECT_DIR$/L003Matrices/L002MaximumSumOf2x2Submatrix.cs" />
+        <option value="$PROJECT_DIR$/L003Matrices/L003GroupNumbers.cs" />
+        <option value="$PROJECT_DIR$/L003Matrices/L004PascalTriangle.cs" />
+        <option value="$PROJECT_DIR$/L003Matrices/X005MatrixOfPalindromes.cs" />
+        <option value="$PROJECT_DIR$/L003Matrices/L001SumOfAllElements.cs" />
+        <option value="$PROJECT_DIR$/L003Matrices/X006DiagonalDifference.cs" />
+        <option value="$PROJECT_DIR$/L003Matrices/X007TwoSquaresInMatrix.cs" />
+        <option value="$PROJECT_DIR$/L003Matrices/X008MaximalSum.cs" />
+        <option value="$PROJECT_DIR$/L003Matrices/X009RubiksMatrix.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="L003Matrices (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="L003Matrices" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L003Matrices/L003Matrices.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/L003Matrices/bin/Debug/L003Matrices.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25f8c0f4-05d1-48d3-9f9d-09cfebdbc28e" name="Default" comment="" />
+      <created>1501512798306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501512798306</updated>
+      <workItem from="1501512799659" duration="10787000" />
+      <workItem from="1501614092688" duration="7805000" />
+      <workItem from="1501656957350" duration="15870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34462000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/L003Matrices/X007TwoSquaresInMatrix.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1501658976000" expanded="false" signature="6:32" ph="..." />
+            <marker date="1501658976000" expanded="true" signature="56:1203" ph="{...}" />
+            <marker date="1501658976000" expanded="true" signature="98:1201" ph="{...}" />
+            <marker date="1501658976000" expanded="true" signature="151:1195" ph="{...}" />
+            <marker date="1501658976000" expanded="true" signature="475:663" ph="{...}" />
+            <marker date="1501658976000" expanded="true" signature="726:1144" ph="{...}" />
+            <marker date="1501658976000" expanded="true" signature="809:1130" ph="{...}" />
+            <marker date="1501658976000" expanded="true" signature="1033:1112" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L003Matrices/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/L003Matrices/L003GroupNumbers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L003Matrices/L004PascalTriangle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L003Matrices/X005MatrixOfPalindromes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L003Matrices/X006DiagonalDifference.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <marker date="1501625369000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1501625369000" expanded="true" signature="90:999" ph="{...}" />
+            <marker date="1501625369000" expanded="true" signature="132:997" ph="{...}" />
+            <marker date="1501625369000" expanded="true" signature="185:991" ph="{...}" />
+            <marker date="1501625369000" expanded="true" signature="336:564" ph="{...}" />
+            <marker date="1501625369000" expanded="true" signature="686:761" ph="{...}" />
+            <marker date="1501625369000" expanded="true" signature="820:916" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L003Matrices/X007TwoSquaresInMatrix.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <marker date="1501658976000" expanded="false" signature="6:32" ph="..." />
+            <marker date="1501658976000" expanded="true" signature="56:1203" ph="{...}" />
+            <marker date="1501658976000" expanded="true" signature="98:1201" ph="{...}" />
+            <marker date="1501658976000" expanded="true" signature="151:1195" ph="{...}" />
+            <marker date="1501658976000" expanded="true" signature="475:663" ph="{...}" />
+            <marker date="1501658976000" expanded="true" signature="726:1144" ph="{...}" />
+            <marker date="1501658976000" expanded="true" signature="809:1130" ph="{...}" />
+            <marker date="1501658976000" expanded="true" signature="1033:1112" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L003Matrices/X008MaximalSum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <marker date="1501661004000" expanded="false" signature="6:32" ph="..." />
+            <marker date="1501661004000" expanded="true" signature="56:1983" ph="{...}" />
+            <marker date="1501661004000" expanded="true" signature="90:1981" ph="{...}" />
+            <marker date="1501661004000" expanded="true" signature="143:1975" ph="{...}" />
+            <marker date="1501661004000" expanded="true" signature="534:761" ph="{...}" />
+            <marker date="1501661004000" expanded="true" signature="824:1501" ph="{...}" />
+            <marker date="1501661004000" expanded="true" signature="907:1487" ph="{...}" />
+            <marker date="1501661004000" expanded="true" signature="1300:1469" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L003Matrices/L001SumOfAllElements.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <marker date="1501620822000" expanded="false" signature="6:32" ph="..." />
+            <marker date="1501620822000" expanded="true" signature="56:1906" ph="{...}" />
+            <marker date="1501620822000" expanded="true" signature="96:1904" ph="{...}" />
+            <marker date="1501620822000" expanded="true" signature="149:1898" ph="{...}" />
+            <marker date="1501620822000" expanded="true" signature="499:804" ph="{...}" />
+            <marker date="1501620822000" expanded="true" signature="818:1756" ph="/* int [,] matrix = new int[rows, columns]; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L003Matrices/L002MaximumSumOf2x2Submatrix.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="29" column="50" lean-forward="false" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+          <folding>
+            <marker date="1501574400000" expanded="false" signature="6:70" ph="..." />
+            <marker date="1501574400000" expanded="true" signature="94:1766" ph="{...}" />
+            <marker date="1501574400000" expanded="true" signature="142:1764" ph="{...}" />
+            <marker date="1501574400000" expanded="true" signature="195:1758" ph="{...}" />
+            <marker date="1501574400000" expanded="true" signature="569:797" ph="{...}" />
+            <marker date="1501574400000" expanded="true" signature="860:1442" ph="{...}" />
+            <marker date="1501574400000" expanded="true" signature="944:1428" ph="{...}" />
+            <marker date="1501574400000" expanded="true" signature="1242:1410" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L003Matrices/X009RubiksMatrix.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2113">
+          <caret line="140" column="16" lean-forward="false" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
+          <folding>
+            <marker date="1501706291000" expanded="true" signature="6:110" ph="..." />
+            <marker date="1501706291000" expanded="true" signature="134:4802" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="170:4800" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="223:4794" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="566:839" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="695:787" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="932:3364" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="1296:1774" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="1353:1756" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="1524:1649" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="1818:2297" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="1875:2279" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="2028:2153" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="2339:2827" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="2396:2809" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="2549:2787" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="2871:3350" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="2928:3332" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="3100:3225" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="3430:3708" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="3559:3651" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="3782:4784" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="3867:4770" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="3956:4063" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="4088:4752" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="4198:4730" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="4327:4704" ph="{...}" />
+            <marker date="1501706291000" expanded="true" signature="4450:4674" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

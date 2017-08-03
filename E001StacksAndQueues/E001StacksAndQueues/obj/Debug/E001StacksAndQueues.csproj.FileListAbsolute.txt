@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/E001StacksAndQueues/E001StacksAndQueues/bin/Debug/E001StacksAndQueues.exe
+/Users/peter/RiderProjects/E001StacksAndQueues/E001StacksAndQueues/bin/Debug/E001StacksAndQueues.pdb
+/Users/peter/RiderProjects/E001StacksAndQueues/E001StacksAndQueues/obj/Debug/E001StacksAndQueues.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/E001StacksAndQueues/E001StacksAndQueues/obj/Debug/E001StacksAndQueues.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/E001StacksAndQueues/E001StacksAndQueues/obj/Debug/E001StacksAndQueues.exe
+/Users/peter/RiderProjects/E001StacksAndQueues/E001StacksAndQueues/obj/Debug/E001StacksAndQueues.pdb

@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/L003Matrices/L003Matrices/bin/Debug/L003Matrices.exe
+/Users/peter/RiderProjects/L003Matrices/L003Matrices/bin/Debug/L003Matrices.pdb
+/Users/peter/RiderProjects/L003Matrices/L003Matrices/obj/Debug/L003Matrices.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/L003Matrices/L003Matrices/obj/Debug/L003Matrices.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/L003Matrices/L003Matrices/obj/Debug/L003Matrices.exe
+/Users/peter/RiderProjects/L003Matrices/L003Matrices/obj/Debug/L003Matrices.pdb
