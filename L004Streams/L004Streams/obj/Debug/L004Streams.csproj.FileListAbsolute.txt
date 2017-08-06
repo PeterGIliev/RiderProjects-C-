@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/L004Streams/L004Streams/bin/Debug/L004Streams.exe
+/Users/peter/RiderProjects/L004Streams/L004Streams/bin/Debug/L004Streams.pdb
+/Users/peter/RiderProjects/L004Streams/L004Streams/obj/Debug/L004Streams.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/L004Streams/L004Streams/obj/Debug/L004Streams.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/L004Streams/L004Streams/obj/Debug/L004Streams.exe
+/Users/peter/RiderProjects/L004Streams/L004Streams/obj/Debug/L004Streams.pdb
