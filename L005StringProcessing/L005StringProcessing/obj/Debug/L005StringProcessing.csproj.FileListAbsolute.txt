@@ -1,0 +1,2 @@
+/Users/peter/RiderProjects/L005StringProcessing/L005StringProcessing/obj/Debug/L005StringProcessing.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/L005StringProcessing/L005StringProcessing/obj/Debug/L005StringProcessing.csproj.CoreCompileInputs.cache

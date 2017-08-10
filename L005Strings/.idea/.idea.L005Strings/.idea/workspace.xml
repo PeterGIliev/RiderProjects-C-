@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2faf1e1-5a68-4014-a4c1-6108ff2bddd9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../L004Streams/L004Streams/L003OddLines.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../L005StringProcessing/.idea/.idea.L005StringProcessing/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.L005Strings/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.L005Strings/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.L005Strings/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.L005Strings/riderModule.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L005Strings/L002StringLength.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L005Strings/L003FormattingNumbers.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L005Strings/L004CountSubstringOccurrences.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L005Strings/L005SumBigNumbers.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L005Strings/L006Palindromes.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L005Strings/L007LettersChangeNumbers.cs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../L004Streams/L004Streams/ReadFromFile.cs" afterPath="$PROJECT_DIR$/../L004Streams/L004Streams/L002ReadFromFile.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L004Streams/L004Streams/bin/Debug/L004Streams.exe" afterPath="$PROJECT_DIR$/../L004Streams/L004Streams/bin/Debug/L004Streams.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L004Streams/L004Streams/bin/Debug/L004Streams.pdb" afterPath="$PROJECT_DIR$/../L004Streams/L004Streams/bin/Debug/L004Streams.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L004Streams/L004Streams/obj/Debug/L004Streams.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/../L004Streams/L004Streams/obj/Debug/L004Streams.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L004Streams/L004Streams/obj/Debug/L004Streams.exe" afterPath="$PROJECT_DIR$/../L004Streams/L004Streams/obj/Debug/L004Streams.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L004Streams/L004Streams/obj/Debug/L004Streams.pdb" afterPath="$PROJECT_DIR$/../L004Streams/L004Streams/obj/Debug/L004Streams.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L004SimpleJudge/.idea/.idea.L004SimpleJudge/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../L004SimpleJudge/.idea/.idea.L004SimpleJudge/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L004SimpleJudge/L004SimpleJudge/Tester.cs" afterPath="$PROJECT_DIR$/../L004SimpleJudge/L004SimpleJudge/Tester.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L004Streams/.idea/.idea.L004Streams/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../L004Streams/.idea/.idea.L004Streams/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L004Streams/L004Streams/L004Streams.csproj" afterPath="$PROJECT_DIR$/../L004Streams/L004Streams/L004Streams.csproj" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FFB99659-FC1C-47FA-A4D5-F883014D08AA/d1/37009d8d/StringBuilder.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/L005Strings/L006Palindromes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L005Strings/L004CountSubstringOccurrences.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L005Strings/L007LettersChangeNumbers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L005Strings/L005SumBigNumbers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L005Strings/L001ReverseString.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L005Strings/L002StringLength.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L005Strings/L003FormattingNumbers.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/L005Strings/Program.cs" />
+        <option value="$PROJECT_DIR$/L005Strings/L001ReverseString.cs" />
+        <option value="$PROJECT_DIR$/L005Strings/L002StringLength.cs" />
+        <option value="$PROJECT_DIR$/L005Strings/L003FormattingNumbers.cs" />
+        <option value="$PROJECT_DIR$/L005Strings/L004ConvertFromBase10ToBaseN.cs" />
+        <option value="$PROJECT_DIR$/L005Strings/L004CountSubstringOccurrences.cs" />
+        <option value="$PROJECT_DIR$/L005Strings/L005SumBigNumbers.cs" />
+        <option value="$PROJECT_DIR$/L005Strings/L006UnicodeCharacters.cs" />
+        <option value="$PROJECT_DIR$/L005Strings/L006Palindromes.cs" />
+        <option value="$PROJECT_DIR$/L005Strings/L007LettersChangeNumbers.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="L005Strings (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="L005Strings" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L005Strings/L005Strings.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/L005Strings/bin/Debug/L005Strings.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2faf1e1-5a68-4014-a4c1-6108ff2bddd9" name="Default" comment="" />
+      <created>1502230894294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502230894294</updated>
+      <workItem from="1502230895609" duration="19585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19585000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2883939" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/L005Strings/L003FormattingNumbers.cs</url>
+          <line>16</line>
+          <properties startOffset="478" endOffset="519" documentPath="$PROJECT_DIR$/L005Strings/L003FormattingNumbers.cs" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/L005Strings/L001ReverseString.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <marker date="1502264212000" expanded="true" signature="6:51" ph="..." />
+            <marker date="1502264212000" expanded="true" signature="74:470" ph="{...}" />
+            <marker date="1502264212000" expanded="true" signature="113:468" ph="{...}" />
+            <marker date="1502264212000" expanded="true" signature="166:462" ph="{...}" />
+            <marker date="1502264212000" expanded="true" signature="333:399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FFB99659-FC1C-47FA-A4D5-F883014D08AA/d1/37009d8d/StringBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="198" column="22" lean-forward="true" selection-start-line="198" selection-start-column="22" selection-end-line="198" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L005Strings/L002StringLength.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <marker date="1502267574000" expanded="false" signature="6:32" ph="..." />
+            <marker date="1502267574000" expanded="true" signature="55:663" ph="{...}" />
+            <marker date="1502267574000" expanded="true" signature="91:661" ph="{...}" />
+            <marker date="1502267574000" expanded="true" signature="144:655" ph="{...}" />
+            <marker date="1502267574000" expanded="true" signature="282:503" ph="{...}" />
+            <marker date="1502267574000" expanded="true" signature="391:489" ph="{...}" />
+            <marker date="1502267574000" expanded="true" signature="520:604" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L005Strings/L006Palindromes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <marker date="1502368872000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1502368872000" expanded="true" signature="89:806" ph="{...}" />
+            <marker date="1502368872000" expanded="true" signature="124:804" ph="{...}" />
+            <marker date="1502368872000" expanded="true" signature="177:798" ph="{...}" />
+            <marker date="1502368872000" expanded="true" signature="455:682" ph="{...}" />
+            <marker date="1502368872000" expanded="true" signature="594:668" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L005Strings/L004CountSubstringOccurrences.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <marker date="1502360213000" expanded="true" signature="36:643" ph="{...}" />
+            <marker date="1502360213000" expanded="true" signature="85:641" ph="{...}" />
+            <marker date="1502360213000" expanded="true" signature="138:635" ph="{...}" />
+            <marker date="1502360213000" expanded="true" signature="378:584" ph="{...}" />
+            <marker date="1502360213000" expanded="true" signature="503:570" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L005Strings/L003FormattingNumbers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <marker date="1502278321000" expanded="false" signature="6:51" ph="..." />
+            <marker date="1502278321000" expanded="true" signature="74:2536" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="115:2534" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="168:2528" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="694:915" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="803:901" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="932:1016" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="1162:1389" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="1235:1333" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="1406:1493" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="1659:1878" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="1728:1826" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="1895:1978" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="2139:2375" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="2263:2361" ph="{...}" />
+            <marker date="1502278321000" expanded="true" signature="2392:2475" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L005Strings/L005SumBigNumbers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1502366432000" expanded="false" signature="6:51" ph="..." />
+            <marker date="1502366432000" expanded="true" signature="74:631" ph="{...}" />
+            <marker date="1502366432000" expanded="true" signature="111:629" ph="{...}" />
+            <marker date="1502366432000" expanded="true" signature="164:623" ph="{...}" />
+            <marker date="1502366432000" expanded="true" signature="402:575" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L005Strings/L007LettersChangeNumbers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding>
+            <marker date="1502382431000" expanded="true" signature="6:32" ph="..." />
+            <marker date="1502382431000" expanded="true" signature="55:1387" ph="{...}" />
+            <marker date="1502382431000" expanded="true" signature="99:1385" ph="{...}" />
+            <marker date="1502382431000" expanded="true" signature="152:1379" ph="{...}" />
+            <marker date="1502382431000" expanded="true" signature="402:1322" ph="{...}" />
+            <marker date="1502382431000" expanded="true" signature="747:852" ph="{...}" />
+            <marker date="1502382431000" expanded="true" signature="873:978" ph="{...}" />
+            <marker date="1502382431000" expanded="true" signature="1049:1151" ph="{...}" />
+            <marker date="1502382431000" expanded="true" signature="1172:1274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

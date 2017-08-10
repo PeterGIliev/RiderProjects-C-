@@ -5,7 +5,7 @@ namespace L004Streams
 {
     public class ReadFromFile
     {
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
             using (StreamReader reader = new StreamReader("TestFile.txt"))
             {

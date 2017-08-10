@@ -1,7 +1,10 @@
 ﻿namespace L004SimpleJudge
 {
-    public class Tester
+    public static class Tester
     {
-        
+        public static void CompareContent(string userOutputPath, string expectedOutputPath)
+        {
+            
+        }
     }
 }

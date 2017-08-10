@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/L005StringProcessing2/L005StringProcessing2/bin/Debug/L005StringProcessing2.dll
+/Users/peter/RiderProjects/L005StringProcessing2/L005StringProcessing2/bin/Debug/L005StringProcessing2.pdb
+/Users/peter/RiderProjects/L005StringProcessing2/L005StringProcessing2/obj/Debug/L005StringProcessing2.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/L005StringProcessing2/L005StringProcessing2/obj/Debug/L005StringProcessing2.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/L005StringProcessing2/L005StringProcessing2/obj/Debug/L005StringProcessing2.dll
+/Users/peter/RiderProjects/L005StringProcessing2/L005StringProcessing2/obj/Debug/L005StringProcessing2.pdb

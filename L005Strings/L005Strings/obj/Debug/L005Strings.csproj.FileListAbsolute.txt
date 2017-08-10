@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/L005Strings/L005Strings/bin/Debug/L005Strings.exe
+/Users/peter/RiderProjects/L005Strings/L005Strings/bin/Debug/L005Strings.pdb
+/Users/peter/RiderProjects/L005Strings/L005Strings/obj/Debug/L005Strings.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/L005Strings/L005Strings/obj/Debug/L005Strings.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/L005Strings/L005Strings/obj/Debug/L005Strings.exe
+/Users/peter/RiderProjects/L005Strings/L005Strings/obj/Debug/L005Strings.pdb

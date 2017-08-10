@@ -42,8 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="L001WriteOnFile.cs" />
+    <Compile Include="L003OddLines.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ReadFromFile.cs" />
+    <Compile Include="L002ReadFromFile.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
