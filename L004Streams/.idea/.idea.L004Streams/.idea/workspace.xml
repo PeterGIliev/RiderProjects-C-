@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b864ee9-72e1-4c2e-aeb9-cd8e5f656332" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L004Streams/L003OddLines.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../L005StringProcessing/.idea/.idea.L005StringProcessing/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/L004Streams/ReadFromFile.cs" afterPath="$PROJECT_DIR$/L004Streams/L002ReadFromFile.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/L004Streams/bin/Debug/L004Streams.exe" afterPath="$PROJECT_DIR$/L004Streams/bin/Debug/L004Streams.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/L004Streams/bin/Debug/L004Streams.pdb" afterPath="$PROJECT_DIR$/L004Streams/bin/Debug/L004Streams.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/L004Streams/obj/Debug/L004Streams.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/L004Streams/obj/Debug/L004Streams.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/L004Streams/obj/Debug/L004Streams.exe" afterPath="$PROJECT_DIR$/L004Streams/obj/Debug/L004Streams.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/L004Streams/obj/Debug/L004Streams.pdb" afterPath="$PROJECT_DIR$/L004Streams/obj/Debug/L004Streams.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L004SimpleJudge/.idea/.idea.L004SimpleJudge/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../L004SimpleJudge/.idea/.idea.L004SimpleJudge/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L004SimpleJudge/L004SimpleJudge/Tester.cs" afterPath="$PROJECT_DIR$/../L004SimpleJudge/L004SimpleJudge/Tester.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.L004Streams/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.L004Streams/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/L004Streams/L004Streams.csproj" afterPath="$PROJECT_DIR$/L004Streams/L004Streams.csproj" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,23 +13,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="L001WriteOnFile.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/L004Streams/L001WriteOnFile.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="27" />
-              <folding>
-                <marker date="1501966969000" expanded="true" signature="39:387" ph="{...}" />
-                <marker date="1501966969000" expanded="true" signature="74:385" ph="{...}" />
-                <marker date="1501966969000" expanded="true" signature="127:379" ph="{...}" />
-                <marker date="1501966969000" expanded="true" signature="247:328" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -91,6 +64,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <PATH>
@@ -111,7 +85,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,11 +197,12 @@
       <workItem from="1502229818398" duration="30000" />
       <workItem from="1502229850618" duration="4000" />
       <workItem from="1502230044477" duration="328000" />
+      <workItem from="1502524802984" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5909000" />
+    <option name="totallyTimeSpent" value="5952000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -241,7 +215,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -251,7 +224,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -279,12 +252,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/L004Streams/L001WriteOnFile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1501966969000" expanded="true" signature="39:387" ph="{...}" />
+            <marker date="1501966969000" expanded="true" signature="74:385" ph="{...}" />
+            <marker date="1501966969000" expanded="true" signature="127:379" ph="{...}" />
+            <marker date="1501966969000" expanded="true" signature="247:328" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/L004Streams/L002ReadFromFile.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding>
             <marker date="1502052600000" expanded="false" signature="6:30" ph="..." />
+            <marker date="1502052600000" expanded="true" signature="53:580" ph="{...}" />
             <marker date="1502052600000" expanded="true" signature="85:578" ph="{...}" />
             <marker date="1502052600000" expanded="true" signature="138:572" ph="{...}" />
             <marker date="1502052600000" expanded="true" signature="223:562" ph="{...}" />
@@ -308,20 +295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L004Streams/L002ReadFromFile.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding>
-            <marker date="1502052600000" expanded="false" signature="6:30" ph="..." />
-            <marker date="1502052600000" expanded="true" signature="85:578" ph="{...}" />
-            <marker date="1502052600000" expanded="true" signature="138:572" ph="{...}" />
-            <marker date="1502052600000" expanded="true" signature="223:562" ph="{...}" />
-            <marker date="1502052600000" expanded="true" signature="359:548" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/L004Streams/L001WriteOnFile.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -331,6 +304,21 @@
             <marker date="1501966969000" expanded="true" signature="74:385" ph="{...}" />
             <marker date="1501966969000" expanded="true" signature="127:379" ph="{...}" />
             <marker date="1501966969000" expanded="true" signature="247:328" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L004Streams/L002ReadFromFile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <marker date="1502052600000" expanded="false" signature="6:30" ph="..." />
+            <marker date="1502052600000" expanded="true" signature="53:580" ph="{...}" />
+            <marker date="1502052600000" expanded="true" signature="85:578" ph="{...}" />
+            <marker date="1502052600000" expanded="true" signature="138:572" ph="{...}" />
+            <marker date="1502052600000" expanded="true" signature="223:562" ph="{...}" />
+            <marker date="1502052600000" expanded="true" signature="359:548" ph="{...}" />
           </folding>
         </state>
       </provider>

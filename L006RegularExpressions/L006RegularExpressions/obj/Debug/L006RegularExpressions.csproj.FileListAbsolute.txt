@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/L006RegularExpressions/L006RegularExpressions/obj/Debug/L006RegularExpressions.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/L006RegularExpressions/L006RegularExpressions/obj/Debug/L006RegularExpressions.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/L006RegularExpressions/L006RegularExpressions/bin/Debug/L006RegularExpressions.exe
+/Users/peter/RiderProjects/L006RegularExpressions/L006RegularExpressions/bin/Debug/L006RegularExpressions.pdb
+/Users/peter/RiderProjects/L006RegularExpressions/L006RegularExpressions/obj/Debug/L006RegularExpressions.exe
+/Users/peter/RiderProjects/L006RegularExpressions/L006RegularExpressions/obj/Debug/L006RegularExpressions.pdb
