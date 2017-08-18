@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/OOP004RawData/OOP004RawData/bin/Debug/OOP004RawData.exe
+/Users/peter/RiderProjects/OOP004RawData/OOP004RawData/bin/Debug/OOP004RawData.pdb
+/Users/peter/RiderProjects/OOP004RawData/OOP004RawData/obj/Debug/OOP004RawData.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/OOP004RawData/OOP004RawData/obj/Debug/OOP004RawData.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/OOP004RawData/OOP004RawData/obj/Debug/OOP004RawData.exe
+/Users/peter/RiderProjects/OOP004RawData/OOP004RawData/obj/Debug/OOP004RawData.pdb

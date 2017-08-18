@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/OOP0005MethodSaysHello/OOP0005MethodSaysHello/obj/Debug/OOP0005MethodSaysHello.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/OOP0005MethodSaysHello/OOP0005MethodSaysHello/obj/Debug/OOP0005MethodSaysHello.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/OOP0005MethodSaysHello/OOP0005MethodSaysHello/bin/Debug/OOP0005MethodSaysHello.exe
+/Users/peter/RiderProjects/OOP0005MethodSaysHello/OOP0005MethodSaysHello/bin/Debug/OOP0005MethodSaysHello.pdb
+/Users/peter/RiderProjects/OOP0005MethodSaysHello/OOP0005MethodSaysHello/obj/Debug/OOP0005MethodSaysHello.exe
+/Users/peter/RiderProjects/OOP0005MethodSaysHello/OOP0005MethodSaysHello/obj/Debug/OOP0005MethodSaysHello.pdb

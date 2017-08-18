@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4527fd2f-39c0-4975-a045-191f68345069" name="Default" comment="" />
+    <list default="true" id="8e729d81-b993-4ddf-88a6-515d9889525e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0001DefineAClassPerson/OOP0001DefineAClassPerson/Person.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0003SpeedRacing/.idea/.idea.OOP0003SpeedRacing/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/Car.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP004RawData/.idea/.idea.OOP004RawData/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP004RawData/.idea/.idea.OOP004RawData/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP004RawData/.idea/.idea.OOP004RawData/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP004RawData/.idea/.idea.OOP004RawData/riderModule.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP004RawData/OOP004RawData/Car.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP004RawData/OOP004RawData/Cargo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP004RawData/OOP004RawData/Engine.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP004RawData/OOP004RawData/Tire.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.OOP005CarSalesman/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.OOP005CarSalesman/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.OOP005CarSalesman/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.OOP005CarSalesman/riderModule.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP005CarSalesman/Car.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP005CarSalesman/Engine.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L007FunctionalProgramming/.idea/.idea.L007FunctionalProgramming/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../L007FunctionalProgramming/.idea/.idea.L007FunctionalProgramming/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +35,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/OOP005CarSalesman/Car.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OOP005CarSalesman/Engine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OOP005CarSalesman/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/L007FunctionalProgramming/Program.cs" />
+        <option value="$PROJECT_DIR$/OOP005CarSalesman/Engine.cs" />
+        <option value="$PROJECT_DIR$/OOP005CarSalesman/Car.cs" />
+        <option value="$PROJECT_DIR$/OOP005CarSalesman/Program.cs" />
       </list>
     </option>
   </component>
@@ -33,7 +59,9 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -58,11 +86,11 @@
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="L007FunctionalProgramming (1 project)" />
+              <option name="myItemId" value="OOP005CarSalesman (1 project)" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="L007FunctionalProgramming" />
+              <option name="myItemId" value="OOP005CarSalesman" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -75,6 +103,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,10 +173,10 @@
       <method />
     </configuration>
     <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="PROJECT_PATH" value="" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
-      <option name="EXE_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OOP005CarSalesman/OOP005CarSalesman.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/OOP005CarSalesman/bin/Debug/OOP005CarSalesman.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="USE_MONO" value="0" />
@@ -164,17 +193,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4527fd2f-39c0-4975-a045-191f68345069" name="Default" comment="" />
-      <created>1502791812389</created>
+      <changelist id="8e729d81-b993-4ddf-88a6-515d9889525e" name="Default" comment="" />
+      <created>1502983060793</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1502791812389</updated>
-      <workItem from="1502791815183" duration="294000" />
+      <updated>1502983060793</updated>
+      <workItem from="1502983062197" duration="6988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294000" />
+    <option name="totallyTimeSpent" value="6988000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,14 +221,15 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -217,15 +247,61 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/L007FunctionalProgramming/Program.cs">
+    <entry file="file://$PROJECT_DIR$/OOP005CarSalesman/Car.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="275">
+          <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <marker date="1503001113000" expanded="true" signature="27:394" ph="{...}" />
+            <marker date="1503001113000" expanded="true" signature="50:392" ph="{...}" />
+            <marker date="1503001113000" expanded="true" signature="229:386" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP005CarSalesman/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="125" column="5" lean-forward="false" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
+          <folding>
+            <marker date="1503002734000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1503002734000" expanded="true" signature="95:4169" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="124:4167" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="177:4161" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="387:1862" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="756:882" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="926:1448" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="1102:1246" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="1271:1409" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="1469:1587" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="1681:1793" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="1971:3316" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="2320:2437" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="2482:2949" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="2645:2778" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="2803:2931" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="2970:3077" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="3163:3253" ph="{...}" />
+            <marker date="1503002734000" expanded="true" signature="3355:4151" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP005CarSalesman/Engine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <marker date="1502998885000" expanded="true" signature="27:424" ph="{...}" />
+            <marker date="1502998885000" expanded="true" signature="53:422" ph="{...}" />
+            <marker date="1502998885000" expanded="true" signature="244:416" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

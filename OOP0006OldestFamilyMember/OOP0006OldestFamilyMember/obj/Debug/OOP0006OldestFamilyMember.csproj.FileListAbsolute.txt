@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/OOP0006OldestFamilyMember/OOP0006OldestFamilyMember/bin/Debug/OOP0006OldestFamilyMember.exe
+/Users/peter/RiderProjects/OOP0006OldestFamilyMember/OOP0006OldestFamilyMember/bin/Debug/OOP0006OldestFamilyMember.pdb
+/Users/peter/RiderProjects/OOP0006OldestFamilyMember/OOP0006OldestFamilyMember/obj/Debug/OOP0006OldestFamilyMember.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/OOP0006OldestFamilyMember/OOP0006OldestFamilyMember/obj/Debug/OOP0006OldestFamilyMember.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/OOP0006OldestFamilyMember/OOP0006OldestFamilyMember/obj/Debug/OOP0006OldestFamilyMember.exe
+/Users/peter/RiderProjects/OOP0006OldestFamilyMember/OOP0006OldestFamilyMember/obj/Debug/OOP0006OldestFamilyMember.pdb

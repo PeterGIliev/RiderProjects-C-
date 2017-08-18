@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/OOP0003SpeedRacing/OOP0003SpeedRacing/bin/Debug/OOP0003SpeedRacing.exe
+/Users/peter/RiderProjects/OOP0003SpeedRacing/OOP0003SpeedRacing/bin/Debug/OOP0003SpeedRacing.pdb
+/Users/peter/RiderProjects/OOP0003SpeedRacing/OOP0003SpeedRacing/obj/Debug/OOP0003SpeedRacing.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/OOP0003SpeedRacing/OOP0003SpeedRacing/obj/Debug/OOP0003SpeedRacing.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/OOP0003SpeedRacing/OOP0003SpeedRacing/obj/Debug/OOP0003SpeedRacing.exe
+/Users/peter/RiderProjects/OOP0003SpeedRacing/OOP0003SpeedRacing/obj/Debug/OOP0003SpeedRacing.pdb

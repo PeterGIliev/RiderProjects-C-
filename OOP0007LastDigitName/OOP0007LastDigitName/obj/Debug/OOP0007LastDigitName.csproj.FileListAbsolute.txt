@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/OOP0007LastDigitName/OOP0007LastDigitName/bin/Debug/OOP0007LastDigitName.exe
+/Users/peter/RiderProjects/OOP0007LastDigitName/OOP0007LastDigitName/bin/Debug/OOP0007LastDigitName.pdb
+/Users/peter/RiderProjects/OOP0007LastDigitName/OOP0007LastDigitName/obj/Debug/OOP0007LastDigitName.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/OOP0007LastDigitName/OOP0007LastDigitName/obj/Debug/OOP0007LastDigitName.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/OOP0007LastDigitName/OOP0007LastDigitName/obj/Debug/OOP0007LastDigitName.exe
+/Users/peter/RiderProjects/OOP0007LastDigitName/OOP0007LastDigitName/obj/Debug/OOP0007LastDigitName.pdb

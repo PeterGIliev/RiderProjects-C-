@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/OOP002CompanyRoster/OOP002CompanyRoster/bin/Debug/OOP002CompanyRoster.exe
+/Users/peter/RiderProjects/OOP002CompanyRoster/OOP002CompanyRoster/bin/Debug/OOP002CompanyRoster.pdb
+/Users/peter/RiderProjects/OOP002CompanyRoster/OOP002CompanyRoster/obj/Debug/OOP002CompanyRoster.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/OOP002CompanyRoster/OOP002CompanyRoster/obj/Debug/OOP002CompanyRoster.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/OOP002CompanyRoster/OOP002CompanyRoster/obj/Debug/OOP002CompanyRoster.exe
+/Users/peter/RiderProjects/OOP002CompanyRoster/OOP002CompanyRoster/obj/Debug/OOP002CompanyRoster.pdb

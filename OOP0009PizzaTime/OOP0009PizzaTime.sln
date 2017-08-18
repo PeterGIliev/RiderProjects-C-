@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP0009PizzaTime", "OOP0009PizzaTime/OOP0009PizzaTime.csproj", "{239B3455-4BCB-4D2F-8EAC-0BCD0B620BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{239B3455-4BCB-4D2F-8EAC-0BCD0B620BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239B3455-4BCB-4D2F-8EAC-0BCD0B620BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239B3455-4BCB-4D2F-8EAC-0BCD0B620BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239B3455-4BCB-4D2F-8EAC-0BCD0B620BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

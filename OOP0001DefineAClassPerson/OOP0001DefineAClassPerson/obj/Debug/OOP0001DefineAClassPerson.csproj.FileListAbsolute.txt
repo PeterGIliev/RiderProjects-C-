@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/OOP0001DefineAClassPerson/OOP0001DefineAClassPerson/bin/Debug/OOP0001DefineAClassPerson.exe
+/Users/peter/RiderProjects/OOP0001DefineAClassPerson/OOP0001DefineAClassPerson/bin/Debug/OOP0001DefineAClassPerson.pdb
+/Users/peter/RiderProjects/OOP0001DefineAClassPerson/OOP0001DefineAClassPerson/obj/Debug/OOP0001DefineAClassPerson.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/OOP0001DefineAClassPerson/OOP0001DefineAClassPerson/obj/Debug/OOP0001DefineAClassPerson.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/OOP0001DefineAClassPerson/OOP0001DefineAClassPerson/obj/Debug/OOP0001DefineAClassPerson.exe
+/Users/peter/RiderProjects/OOP0001DefineAClassPerson/OOP0001DefineAClassPerson/obj/Debug/OOP0001DefineAClassPerson.pdb
