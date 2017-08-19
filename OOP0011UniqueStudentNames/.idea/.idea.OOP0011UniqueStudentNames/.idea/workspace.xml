@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06e73b6a-f8f1-452e-90f1-b07de057bac4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP0009PizzaTime/Pizza.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/OOP0009PizzaTime/Program.cs" afterPath="$PROJECT_DIR$/OOP0009PizzaTime/Startup.cs" />
+    <list default="true" id="4e09c132-7a48-4442-959e-4918cfa4d984" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0009PizzaTime/OOP0009PizzaTime/Pizza.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0010Students/.idea/.idea.OOP0010Students/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0010Students/.idea/.idea.OOP0010Students/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0010Students/.idea/.idea.OOP0010Students/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0010Students/.idea/.idea.OOP0010Students/riderModule.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/Students.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.OOP0011UniqueStudentNames/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.OOP0011UniqueStudentNames/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.OOP0011UniqueStudentNames/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.OOP0011UniqueStudentNames/riderModule.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP0011UniqueStudentNames/Student.cs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../OOP0009PizzaTime/OOP0009PizzaTime/Program.cs" afterPath="$PROJECT_DIR$/../OOP0009PizzaTime/OOP0009PizzaTime/Startup.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0007NumberInReversedOrder/.idea/.idea.OOP0007NumberInReversedOrder/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0007NumberInReversedOrder/.idea/.idea.OOP0007NumberInReversedOrder/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.OOP0009PizzaTime/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.OOP0009PizzaTime/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OOP0009PizzaTime/OOP0009PizzaTime.csproj" afterPath="$PROJECT_DIR$/OOP0009PizzaTime/OOP0009PizzaTime.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0009PizzaTime/.idea/.idea.OOP0009PizzaTime/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0009PizzaTime/.idea/.idea.OOP0009PizzaTime/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0009PizzaTime/OOP0009PizzaTime/OOP0009PizzaTime.csproj" afterPath="$PROJECT_DIR$/../OOP0009PizzaTime/OOP0009PizzaTime/OOP0009PizzaTime.csproj" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,30 +28,29 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP0009PizzaTime/Startup.cs">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOP0011UniqueStudentNames/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding>
-                <marker date="1503092565000" expanded="false" signature="6:47" ph="..." />
-                <marker date="1503092565000" expanded="true" signature="75:198" ph="{...}" />
-                <marker date="1503092565000" expanded="true" signature="104:196" ph="{...}" />
-                <marker date="1503092565000" expanded="true" signature="157:190" ph="{...}" />
+                <marker date="1503179777000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1503179777000" expanded="true" signature="84:207" ph="{...}" />
+                <marker date="1503179777000" expanded="true" signature="113:205" ph="{...}" />
+                <marker date="1503179777000" expanded="true" signature="166:199" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pizza.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OOP0009PizzaTime/Pizza.cs">
+      <file leaf-file-name="Student.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOP0011UniqueStudentNames/Student.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="64">
+              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               <folding>
-                <marker date="1503094415000" expanded="true" signature="61:447" ph="{...}" />
-                <marker date="1503094415000" expanded="true" signature="86:445" ph="{...}" />
-                <marker date="1503094415000" expanded="true" signature="329:362" ph="{...}" />
+                <marker date="1503179790000" expanded="true" signature="35:85" ph="{...}" />
+                <marker date="1503179790000" expanded="true" signature="62:83" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -53,15 +62,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/OOP0009PizzaTime/Pizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OOP0009PizzaTime/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OOP0011UniqueStudentNames/Student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OOP0011UniqueStudentNames/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/OOP0009PizzaTime/Program.cs" />
-        <option value="$PROJECT_DIR$/OOP0009PizzaTime/Startup.cs" />
-        <option value="$PROJECT_DIR$/OOP0009PizzaTime/Pizza.cs" />
+        <option value="$PROJECT_DIR$/OOP0011UniqueStudentNames/Program.cs" />
+        <option value="$PROJECT_DIR$/OOP0011UniqueStudentNames/Student.cs" />
       </list>
     </option>
   </component>
@@ -102,11 +110,11 @@
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="OOP0009PizzaTime (1 project)" />
+              <option name="myItemId" value="OOP0011UniqueStudentNames (1 project)" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="OOP0009PizzaTime" />
+              <option name="myItemId" value="OOP0011UniqueStudentNames" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -208,17 +216,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="06e73b6a-f8f1-452e-90f1-b07de057bac4" name="Default" comment="" />
-      <created>1503092452772</created>
+      <changelist id="4e09c132-7a48-4442-959e-4918cfa4d984" name="Default" comment="" />
+      <created>1503179760335</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1503092452772</updated>
-      <workItem from="1503092454316" duration="1869000" />
+      <updated>1503179760335</updated>
+      <workItem from="1503179761690" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1869000" />
+    <option name="totallyTimeSpent" value="41000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,27 +274,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OOP0009PizzaTime/Startup.cs">
+    <entry file="file://$PROJECT_DIR$/OOP0011UniqueStudentNames/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding>
-            <marker date="1503092565000" expanded="false" signature="6:47" ph="..." />
-            <marker date="1503092565000" expanded="true" signature="75:198" ph="{...}" />
-            <marker date="1503092565000" expanded="true" signature="104:196" ph="{...}" />
-            <marker date="1503092565000" expanded="true" signature="157:190" ph="{...}" />
+            <marker date="1503179777000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1503179777000" expanded="true" signature="84:207" ph="{...}" />
+            <marker date="1503179777000" expanded="true" signature="113:205" ph="{...}" />
+            <marker date="1503179777000" expanded="true" signature="166:199" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOP0009PizzaTime/Pizza.cs">
+    <entry file="file://$PROJECT_DIR$/OOP0011UniqueStudentNames/Student.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="64">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding>
-            <marker date="1503094415000" expanded="true" signature="61:447" ph="{...}" />
-            <marker date="1503094415000" expanded="true" signature="86:445" ph="{...}" />
-            <marker date="1503094415000" expanded="true" signature="329:362" ph="{...}" />
+            <marker date="1503179790000" expanded="true" signature="35:85" ph="{...}" />
+            <marker date="1503179790000" expanded="true" signature="62:83" ph="{...}" />
           </folding>
         </state>
       </provider>
