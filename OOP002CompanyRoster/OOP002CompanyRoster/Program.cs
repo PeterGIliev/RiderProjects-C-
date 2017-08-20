@@ -35,6 +35,7 @@ namespace OOP002CompanyRoster
                     } else if (!parameter && input.Length == 5)
                     {
                         email = input[4];
+                        age = -1;
                     }
                 }
 

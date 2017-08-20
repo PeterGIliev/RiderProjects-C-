@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/OOP0011UniqueStudentNames/OOP0011UniqueStudentNames/bin/Debug/OOP0011UniqueStudentNames.exe
+/Users/peter/RiderProjects/OOP0011UniqueStudentNames/OOP0011UniqueStudentNames/bin/Debug/OOP0011UniqueStudentNames.pdb
+/Users/peter/RiderProjects/OOP0011UniqueStudentNames/OOP0011UniqueStudentNames/obj/Debug/OOP0011UniqueStudentNames.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/OOP0011UniqueStudentNames/OOP0011UniqueStudentNames/obj/Debug/OOP0011UniqueStudentNames.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/OOP0011UniqueStudentNames/OOP0011UniqueStudentNames/obj/Debug/OOP0011UniqueStudentNames.exe
+/Users/peter/RiderProjects/OOP0011UniqueStudentNames/OOP0011UniqueStudentNames/obj/Debug/OOP0011UniqueStudentNames.pdb
