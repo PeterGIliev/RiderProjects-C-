@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/OOP0016ClassBox/OOP0016ClassBox/bin/Debug/OOP0016ClassBox.exe
+/Users/peter/RiderProjects/OOP0016ClassBox/OOP0016ClassBox/bin/Debug/OOP0016ClassBox.pdb
+/Users/peter/RiderProjects/OOP0016ClassBox/OOP0016ClassBox/obj/Debug/OOP0016ClassBox.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/OOP0016ClassBox/OOP0016ClassBox/obj/Debug/OOP0016ClassBox.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/OOP0016ClassBox/OOP0016ClassBox/obj/Debug/OOP0016ClassBox.exe
+/Users/peter/RiderProjects/OOP0016ClassBox/OOP0016ClassBox/obj/Debug/OOP0016ClassBox.pdb

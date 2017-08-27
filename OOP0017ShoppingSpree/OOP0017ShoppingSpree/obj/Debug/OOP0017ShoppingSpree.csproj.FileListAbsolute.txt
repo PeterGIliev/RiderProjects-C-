@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/OOP0017ShoppingSpree/OOP0017ShoppingSpree/obj/Debug/OOP0017ShoppingSpree.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/OOP0017ShoppingSpree/OOP0017ShoppingSpree/obj/Debug/OOP0017ShoppingSpree.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/OOP0017ShoppingSpree/OOP0017ShoppingSpree/bin/Debug/OOP0017ShoppingSpree.exe
+/Users/peter/RiderProjects/OOP0017ShoppingSpree/OOP0017ShoppingSpree/bin/Debug/OOP0017ShoppingSpree.pdb
+/Users/peter/RiderProjects/OOP0017ShoppingSpree/OOP0017ShoppingSpree/obj/Debug/OOP0017ShoppingSpree.exe
+/Users/peter/RiderProjects/OOP0017ShoppingSpree/OOP0017ShoppingSpree/obj/Debug/OOP0017ShoppingSpree.pdb
