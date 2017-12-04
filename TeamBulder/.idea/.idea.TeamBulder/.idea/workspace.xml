@@ -1,93 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="411626e9-03ce-4273-9596-96e07b70b71b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.TeamBulder/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ConsoleApplication/ConsoleApplication/Properties/AssemblyInfo.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.csprojResolveAssemblyReference.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/.idea/.idea.E001StacksAndQueues/.idea/contentModel.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/.idea/.idea.E001StacksAndQueues/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/.idea/.idea.E001StacksAndQueues/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/.idea/.idea.E001StacksAndQueues/riderModule.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/E001StacksAndQueues.sln" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/E001StacksAndQueues/A01ReverseStrings.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/E001StacksAndQueues/A02SimpleCalculator.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/E001StacksAndQueues/E001StacksAndQueues.csproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/E001StacksAndQueues/Properties/AssemblyInfo.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/E001StacksAndQueues/bin/Debug/E001StacksAndQueues.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/E001StacksAndQueues/bin/Debug/E001StacksAndQueues.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/E001StacksAndQueues/obj/Debug/E001StacksAndQueues.csproj.CoreCompileInputs.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/E001StacksAndQueues/obj/Debug/E001StacksAndQueues.csproj.FileListAbsolute.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/E001StacksAndQueues/obj/Debug/E001StacksAndQueues.csprojResolveAssemblyReference.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/E001StacksAndQueues/obj/Debug/E001StacksAndQueues.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../E001StacksAndQueues/E001StacksAndQueues/obj/Debug/E001StacksAndQueues.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/.idea/.idea.TestConsole/.idea/contentModel.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/.idea/.idea.TestConsole/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/.idea/.idea.TestConsole/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/.idea/.idea.TestConsole/riderModule.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/TestConsole.sln" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/TestConsole/Program.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/TestConsole/Properties/AssemblyInfo.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/TestConsole/TestConsole.csproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/TestConsole/bin/Debug/TestConsole.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/TestConsole/bin/Debug/TestConsole.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/TestConsole/obj/Debug/TestConsole.csproj.CoreCompileInputs.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/TestConsole/obj/Debug/TestConsole.csproj.FileListAbsolute.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/TestConsole/obj/Debug/TestConsole.csprojResolveAssemblyReference.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/TestConsole/obj/Debug/TestConsole.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestConsole/TestConsole/obj/Debug/TestConsole.pdb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0001DefineAClassPerson/OOP0001DefineAClassPerson/obj/Debug/OOP0001DefineAClassPerson.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0001DefineAClassPerson/OOP0001DefineAClassPerson/obj/Debug/OOP0001DefineAClassPerson.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/bin/Debug/OOP0003SpeedRacing.exe" afterPath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/bin/Debug/OOP0003SpeedRacing.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/bin/Debug/OOP0003SpeedRacing.pdb" afterPath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/bin/Debug/OOP0003SpeedRacing.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/obj/Debug/OOP0003SpeedRacing.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/obj/Debug/OOP0003SpeedRacing.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/obj/Debug/OOP0003SpeedRacing.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/obj/Debug/OOP0003SpeedRacing.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/obj/Debug/OOP0003SpeedRacing.exe" afterPath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/obj/Debug/OOP0003SpeedRacing.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/obj/Debug/OOP0003SpeedRacing.pdb" afterPath="$PROJECT_DIR$/../OOP0003SpeedRacing/OOP0003SpeedRacing/obj/Debug/OOP0003SpeedRacing.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/bin/Debug/OOP0010Students.exe" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/bin/Debug/OOP0010Students.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/bin/Debug/OOP0010Students.pdb" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/bin/Debug/OOP0010Students.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.exe" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.pdb" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0011UniqueStudentNames/OOP0011UniqueStudentNames/obj/Debug/OOP0011UniqueStudentNames.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0011UniqueStudentNames/OOP0011UniqueStudentNames/obj/Debug/OOP0011UniqueStudentNames.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/bin/Debug/OOP0014OldestFamilyMember.exe" afterPath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/bin/Debug/OOP0014OldestFamilyMember.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/bin/Debug/OOP0014OldestFamilyMember.pdb" afterPath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/bin/Debug/OOP0014OldestFamilyMember.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/obj/Debug/OOP0014OldestFamilyMember.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/obj/Debug/OOP0014OldestFamilyMember.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/obj/Debug/OOP0014OldestFamilyMember.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/obj/Debug/OOP0014OldestFamilyMember.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/obj/Debug/OOP0014OldestFamilyMember.exe" afterPath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/obj/Debug/OOP0014OldestFamilyMember.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/obj/Debug/OOP0014OldestFamilyMember.pdb" afterPath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/obj/Debug/OOP0014OldestFamilyMember.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0015CompanyRoster/OOP0015CompanyRoster/bin/Debug/OOP0015CompanyRoster.exe" afterPath="$PROJECT_DIR$/../OOP0015CompanyRoster/OOP0015CompanyRoster/bin/Debug/OOP0015CompanyRoster.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0015CompanyRoster/OOP0015CompanyRoster/bin/Debug/OOP0015CompanyRoster.pdb" afterPath="$PROJECT_DIR$/../OOP0015CompanyRoster/OOP0015CompanyRoster/bin/Debug/OOP0015CompanyRoster.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0015CompanyRoster/OOP0015CompanyRoster/obj/Debug/OOP0015CompanyRoster.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/../OOP0015CompanyRoster/OOP0015CompanyRoster/obj/Debug/OOP0015CompanyRoster.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0015CompanyRoster/OOP0015CompanyRoster/obj/Debug/OOP0015CompanyRoster.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0015CompanyRoster/OOP0015CompanyRoster/obj/Debug/OOP0015CompanyRoster.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0015CompanyRoster/OOP0015CompanyRoster/obj/Debug/OOP0015CompanyRoster.exe" afterPath="$PROJECT_DIR$/../OOP0015CompanyRoster/OOP0015CompanyRoster/obj/Debug/OOP0015CompanyRoster.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0015CompanyRoster/OOP0015CompanyRoster/obj/Debug/OOP0015CompanyRoster.pdb" afterPath="$PROJECT_DIR$/../OOP0015CompanyRoster/OOP0015CompanyRoster/obj/Debug/OOP0015CompanyRoster.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0016ClassBox/OOP0016ClassBox/obj/Debug/OOP0016ClassBox.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0016ClassBox/OOP0016ClassBox/obj/Debug/OOP0016ClassBox.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/bin/Debug/OOP0017ShoppingSpree.exe" afterPath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/bin/Debug/OOP0017ShoppingSpree.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/bin/Debug/OOP0017ShoppingSpree.pdb" afterPath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/bin/Debug/OOP0017ShoppingSpree.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/obj/Debug/OOP0017ShoppingSpree.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/obj/Debug/OOP0017ShoppingSpree.csproj.CoreCompileInputs.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/obj/Debug/OOP0017ShoppingSpree.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/obj/Debug/OOP0017ShoppingSpree.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/obj/Debug/OOP0017ShoppingSpree.exe" afterPath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/obj/Debug/OOP0017ShoppingSpree.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/obj/Debug/OOP0017ShoppingSpree.pdb" afterPath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/obj/Debug/OOP0017ShoppingSpree.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ConsoleApplication/.idea/.idea.ConsoleApplication/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/../ConsoleApplication/.idea/.idea.ConsoleApplication/.idea/contentModel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ConsoleApplication/.idea/.idea.ConsoleApplication/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ConsoleApplication/.idea/.idea.ConsoleApplication/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ConsoleApplication/.idea/.idea.ConsoleApplication/riderModule.iml" afterPath="$PROJECT_DIR$/../ConsoleApplication/.idea/.idea.ConsoleApplication/riderModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ConsoleApplication/ConsoleApplication.sln" afterPath="$PROJECT_DIR$/../ConsoleApplication/ConsoleApplication.sln" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ConsoleApplication/ConsoleApplication/ConsoleApplication.csproj" afterPath="$PROJECT_DIR$/../ConsoleApplication/ConsoleApplication/ConsoleApplication.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ConsoleApplication/ConsoleApplication/Program.cs" afterPath="$PROJECT_DIR$/../ConsoleApplication/ConsoleApplication/Program.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0001DefineAClassPerson/.idea/.idea.OOP0001DefineAClassPerson/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0001DefineAClassPerson/.idea/.idea.OOP0001DefineAClassPerson/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0003SpeedRacing/.idea/.idea.OOP0003SpeedRacing/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0003SpeedRacing/.idea/.idea.OOP0003SpeedRacing/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0009PizzaTime/.idea/.idea.OOP0009PizzaTime/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0009PizzaTime/.idea/.idea.OOP0009PizzaTime/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/.idea/.idea.OOP0010Students/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0010Students/.idea/.idea.OOP0010Students/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0011UniqueStudentNames/.idea/.idea.OOP0011UniqueStudentNames/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0011UniqueStudentNames/.idea/.idea.OOP0011UniqueStudentNames/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/.idea/.idea.OOP0014OldestFamilyMember/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/.idea/.idea.OOP0014OldestFamilyMember/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0015CompanyRoster/.idea/.idea.OOP0015CompanyRoster/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0015CompanyRoster/.idea/.idea.OOP0015CompanyRoster/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0016ClassBox/.idea/.idea.OOP0016ClassBox/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0016ClassBox/.idea/.idea.OOP0016ClassBox/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0017ShoppingSpree/.idea/.idea.OOP0017ShoppingSpree/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0017ShoppingSpree/.idea/.idea.OOP0017ShoppingSpree/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/Person.cs" afterPath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/Person.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/Product.cs" afterPath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/Product.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/StartUp.cs" afterPath="$PROJECT_DIR$/../OOP0017ShoppingSpree/OOP0017ShoppingSpree/StartUp.cs" />
-    </list>
+    <list default="true" id="411626e9-03ce-4273-9596-96e07b70b71b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -366,12 +280,12 @@
       <workItem from="1512321515536" duration="4262000" />
       <workItem from="1512374526926" duration="196000" />
       <workItem from="1512398002894" duration="20000" />
-      <workItem from="1512404055433" duration="998000" />
+      <workItem from="1512404055433" duration="1059000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20873000" />
+    <option name="totallyTimeSpent" value="20934000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
