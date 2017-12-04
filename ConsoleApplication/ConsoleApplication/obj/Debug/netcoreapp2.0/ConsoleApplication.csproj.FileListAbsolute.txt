@@ -1,0 +1,11 @@
+/Users/peter/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/netcoreapp2.0/ConsoleApplication.deps.json
+/Users/peter/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/netcoreapp2.0/ConsoleApplication.runtimeconfig.json
+/Users/peter/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/netcoreapp2.0/ConsoleApplication.runtimeconfig.dev.json
+/Users/peter/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/netcoreapp2.0/ConsoleApplication.dll
+/Users/peter/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/netcoreapp2.0/ConsoleApplication.pdb
+/Users/peter/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/netcoreapp2.0/ConsoleApplication.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/netcoreapp2.0/ConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/netcoreapp2.0/ConsoleApplication.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/netcoreapp2.0/ConsoleApplication.AssemblyInfo.cs
+/Users/peter/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/netcoreapp2.0/ConsoleApplication.dll
+/Users/peter/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/netcoreapp2.0/ConsoleApplication.pdb

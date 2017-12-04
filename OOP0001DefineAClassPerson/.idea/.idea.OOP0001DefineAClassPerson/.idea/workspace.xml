@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="575599d1-c14a-405d-9d29-8196cfaac3e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP0001DefineAClassPerson/Person.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../L007FunctionalProgramming/.idea/.idea.L007FunctionalProgramming/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../L007FunctionalProgramming/.idea/.idea.L007FunctionalProgramming/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OOP0001DefineAClassPerson/obj/Debug/OOP0001DefineAClassPerson.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/OOP0001DefineAClassPerson/obj/Debug/OOP0001DefineAClassPerson.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/bin/Debug/OOP0010Students.exe" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/bin/Debug/OOP0010Students.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/bin/Debug/OOP0010Students.pdb" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/bin/Debug/OOP0010Students.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.exe" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.pdb" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0011UniqueStudentNames/OOP0011UniqueStudentNames/obj/Debug/OOP0011UniqueStudentNames.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0011UniqueStudentNames/OOP0011UniqueStudentNames/obj/Debug/OOP0011UniqueStudentNames.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/obj/Debug/OOP0014OldestFamilyMember.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/OOP0014OldestFamilyMember/obj/Debug/OOP0014OldestFamilyMember.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0016ClassBox/OOP0016ClassBox/obj/Debug/OOP0016ClassBox.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0016ClassBox/OOP0016ClassBox/obj/Debug/OOP0016ClassBox.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0009PizzaTime/.idea/.idea.OOP0009PizzaTime/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0009PizzaTime/.idea/.idea.OOP0009PizzaTime/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/.idea/.idea.OOP0010Students/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0010Students/.idea/.idea.OOP0010Students/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0011UniqueStudentNames/.idea/.idea.OOP0011UniqueStudentNames/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0011UniqueStudentNames/.idea/.idea.OOP0011UniqueStudentNames/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/.idea/.idea.OOP0014OldestFamilyMember/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0014OldestFamilyMember/.idea/.idea.OOP0014OldestFamilyMember/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0016ClassBox/.idea/.idea.OOP0016ClassBox/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0016ClassBox/.idea/.idea.OOP0016ClassBox/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +27,26 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOP0001DefineAClassPerson/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding>
+                <marker date="1502869979000" expanded="false" signature="6:91" ph="..." />
+                <marker date="1502869979000" expanded="true" signature="128:2298" ph="{...}" />
+                <marker date="1502869979000" expanded="true" signature="155:2296" ph="{...}" />
+                <marker date="1502869979000" expanded="true" signature="208:2290" ph="{...}" />
+                <marker date="1502869979000" expanded="true" signature="359:717" ph="{...}" />
+                <marker date="1502869979000" expanded="true" signature="731:1998" ph="/* Type personType = typeof(Person); ... */" />
+                <marker date="1502869979000" expanded="true" signature="2184:2280" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -59,7 +91,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <PATH>
@@ -71,11 +102,16 @@
               <option name="myItemId" value="OOP0001DefineAClassPerson (1 project)" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP0001DefineAClassPerson" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,11 +219,12 @@
       <updated>1502825361418</updated>
       <workItem from="1502825362933" duration="2619000" />
       <workItem from="1502865574144" duration="3870000" />
+      <workItem from="1508963449548" duration="263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6489000" />
+    <option name="totallyTimeSpent" value="6752000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,6 +237,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -209,8 +247,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -220,6 +257,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -257,19 +295,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="25" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <marker date="1502869979000" expanded="true" signature="6:85" ph="..." />
-            <marker date="1502869979000" expanded="true" signature="122:428" ph="{...}" />
-            <marker date="1502869979000" expanded="true" signature="148:426" ph="{...}" />
-            <marker date="1502869979000" expanded="true" signature="263:341" ph="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP0001DefineAClassPerson/Person.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP0001DefineAClassPerson/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="112">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
             <marker date="1502869979000" expanded="false" signature="6:91" ph="..." />
             <marker date="1502869979000" expanded="true" signature="128:2298" ph="{...}" />
@@ -278,19 +317,6 @@
             <marker date="1502869979000" expanded="true" signature="359:717" ph="{...}" />
             <marker date="1502869979000" expanded="true" signature="731:1998" ph="/* Type personType = typeof(Person); ... */" />
             <marker date="1502869979000" expanded="true" signature="2184:2280" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP0001DefineAClassPerson/Person.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <marker date="1502869979000" expanded="true" signature="6:85" ph="..." />
-            <marker date="1502869979000" expanded="true" signature="122:428" ph="{...}" />
-            <marker date="1502869979000" expanded="true" signature="148:426" ph="{...}" />
-            <marker date="1502869979000" expanded="true" signature="263:341" ph="{...}" />
           </folding>
         </state>
       </provider>

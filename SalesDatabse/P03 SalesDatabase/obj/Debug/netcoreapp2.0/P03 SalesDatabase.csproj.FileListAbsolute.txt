@@ -1,0 +1,11 @@
+/Users/peter/RiderProjects/SalesDatabse/P03 SalesDatabase/bin/Debug/netcoreapp2.0/P03 SalesDatabase.deps.json
+/Users/peter/RiderProjects/SalesDatabse/P03 SalesDatabase/bin/Debug/netcoreapp2.0/P03 SalesDatabase.runtimeconfig.json
+/Users/peter/RiderProjects/SalesDatabse/P03 SalesDatabase/bin/Debug/netcoreapp2.0/P03 SalesDatabase.runtimeconfig.dev.json
+/Users/peter/RiderProjects/SalesDatabse/P03 SalesDatabase/bin/Debug/netcoreapp2.0/P03 SalesDatabase.dll
+/Users/peter/RiderProjects/SalesDatabse/P03 SalesDatabase/bin/Debug/netcoreapp2.0/P03 SalesDatabase.pdb
+/Users/peter/RiderProjects/SalesDatabse/P03 SalesDatabase/obj/Debug/netcoreapp2.0/P03 SalesDatabase.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/SalesDatabse/P03 SalesDatabase/obj/Debug/netcoreapp2.0/P03 SalesDatabase.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/SalesDatabse/P03 SalesDatabase/obj/Debug/netcoreapp2.0/P03 SalesDatabase.AssemblyInfo.cs
+/Users/peter/RiderProjects/SalesDatabse/P03 SalesDatabase/obj/Debug/netcoreapp2.0/P03 SalesDatabase.dll
+/Users/peter/RiderProjects/SalesDatabse/P03 SalesDatabase/obj/Debug/netcoreapp2.0/P03 SalesDatabase.pdb
+/Users/peter/RiderProjects/SalesDatabse/P03 SalesDatabase/obj/Debug/netcoreapp2.0/P03 SalesDatabase.csprojResolveAssemblyReference.cache

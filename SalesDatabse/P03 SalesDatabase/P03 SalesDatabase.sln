@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 15.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03 SalesDatabase", "P03 SalesDatabase.csproj", "{C459BC2E-74D1-46F0-A5AD-3216D652C0E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C459BC2E-74D1-46F0-A5AD-3216D652C0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C459BC2E-74D1-46F0-A5AD-3216D652C0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C459BC2E-74D1-46F0-A5AD-3216D652C0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C459BC2E-74D1-46F0-A5AD-3216D652C0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

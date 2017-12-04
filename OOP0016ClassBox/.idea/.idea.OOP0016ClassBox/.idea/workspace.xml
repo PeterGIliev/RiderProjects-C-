@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7ec9366-b1eb-4bc5-ab06-ad770108bf55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.OOP0016ClassBox/.idea/contentModel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.OOP0016ClassBox/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.OOP0016ClassBox/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.OOP0016ClassBox/riderModule.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP0016ClassBox/Box.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0017AnimalFarm/.idea/.idea.OOP0017AnimalFarm/.idea/contentModel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0017AnimalFarm/.idea/.idea.OOP0017AnimalFarm/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0017AnimalFarm/.idea/.idea.OOP0017AnimalFarm/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0017AnimalFarm/.idea/.idea.OOP0017AnimalFarm/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0017AnimalFarm/.idea/.idea.OOP0017AnimalFarm/riderModule.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP0017AnimalFarm/OOP0017AnimalFarm/Chicken.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/bin/Debug/OOP0010Students.exe" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/bin/Debug/OOP0010Students.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/bin/Debug/OOP0010Students.pdb" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/bin/Debug/OOP0010Students.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.exe" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.pdb" afterPath="$PROJECT_DIR$/../OOP0010Students/OOP0010Students/obj/Debug/OOP0010Students.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0011UniqueStudentNames/OOP0011UniqueStudentNames/obj/Debug/OOP0011UniqueStudentNames.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/../OOP0011UniqueStudentNames/OOP0011UniqueStudentNames/obj/Debug/OOP0011UniqueStudentNames.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0009PizzaTime/.idea/.idea.OOP0009PizzaTime/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0009PizzaTime/.idea/.idea.OOP0009PizzaTime/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0010Students/.idea/.idea.OOP0010Students/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0010Students/.idea/.idea.OOP0010Students/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP0011UniqueStudentNames/.idea/.idea.OOP0011UniqueStudentNames/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP0011UniqueStudentNames/.idea/.idea.OOP0011UniqueStudentNames/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,14 +23,13 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StartUp.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StartUp.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OOP0016ClassBox/StartUp.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="80">
+              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding>
                 <marker date="1503350611000" expanded="false" signature="6:91" ph="..." />
-                <marker date="1503350611000" expanded="true" signature="118:1227" ph="{...}" />
                 <marker date="1503350611000" expanded="true" signature="152:1225" ph="{...}" />
                 <marker date="1503350611000" expanded="true" signature="205:1219" ph="{...}" />
                 <marker date="1503350611000" expanded="true" signature="596:1084" ph="{...}" />
@@ -41,13 +39,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Box.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Box.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OOP0016ClassBox/Box.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="48">
               <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding>
-                <marker date="1503350611000" expanded="true" signature="25:1756" ph="{...}" />
                 <marker date="1503350611000" expanded="true" signature="48:1754" ph="{...}" />
                 <marker date="1503350611000" expanded="true" signature="210:330" ph="{...}" />
                 <marker date="1503350611000" expanded="true" signature="377:690" ph="{...}" />
@@ -113,6 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <PATH>
@@ -121,11 +119,7 @@
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="OOP0016ClassBox (1 project)" />
-              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OOP0016ClassBox" />
+              <option name="myItemId" value="OOP0016ClassBox (loading...)" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -133,7 +127,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,11 +234,12 @@
       <updated>1503343473192</updated>
       <workItem from="1503343476048" duration="3308000" />
       <workItem from="1503348286046" duration="2261000" />
+      <workItem from="1506885986668" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5569000" />
+    <option name="totallyTimeSpent" value="5582000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -268,8 +262,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -279,6 +272,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -302,7 +296,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1503350611000" expanded="false" signature="6:91" ph="..." />
-            <marker date="1503350611000" expanded="true" signature="118:1227" ph="{...}" />
             <marker date="1503350611000" expanded="true" signature="152:1225" ph="{...}" />
             <marker date="1503350611000" expanded="true" signature="205:1219" ph="{...}" />
             <marker date="1503350611000" expanded="true" signature="596:1084" ph="{...}" />
@@ -313,34 +306,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP0016ClassBox/Box.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="752">
-          <caret line="47" column="43" lean-forward="false" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
-          <folding>
-            <marker date="1503350611000" expanded="true" signature="25:1756" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="48:1754" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="210:330" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="377:690" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="451:680" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="499:629" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="727:1037" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="800:1027" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="848:977" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="1075:1388" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="1149:1378" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="1197:1327" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="1425:1527" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="1567:1652" ph="{...}" />
-            <marker date="1503350611000" expanded="true" signature="1684:1748" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP0016ClassBox/Box.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="48">
           <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding>
-            <marker date="1503350611000" expanded="true" signature="25:1756" ph="{...}" />
             <marker date="1503350611000" expanded="true" signature="48:1754" ph="{...}" />
             <marker date="1503350611000" expanded="true" signature="210:330" ph="{...}" />
             <marker date="1503350611000" expanded="true" signature="377:690" ph="{...}" />
@@ -361,15 +329,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP0016ClassBox/StartUp.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1503350611000" expanded="false" signature="6:91" ph="..." />
-            <marker date="1503350611000" expanded="true" signature="118:1227" ph="{...}" />
             <marker date="1503350611000" expanded="true" signature="152:1225" ph="{...}" />
             <marker date="1503350611000" expanded="true" signature="205:1219" ph="{...}" />
             <marker date="1503350611000" expanded="true" signature="596:1084" ph="{...}" />
             <marker date="1503350611000" expanded="true" signature="1124:1209" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP0016ClassBox/Box.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="47" column="43" lean-forward="false" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+          <folding>
+            <marker date="1503350611000" expanded="true" signature="48:1754" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="210:330" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="377:690" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="451:680" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="499:629" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="727:1037" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="800:1027" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="848:977" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1075:1388" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1149:1378" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1197:1327" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1425:1527" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1567:1652" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1684:1748" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP0016ClassBox/StartUp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <marker date="1503350611000" expanded="false" signature="6:91" ph="..." />
+            <marker date="1503350611000" expanded="true" signature="152:1225" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="205:1219" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="596:1084" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1124:1209" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP0016ClassBox/Box.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <marker date="1503350611000" expanded="true" signature="48:1754" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="210:330" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="377:690" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="451:680" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="499:629" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="727:1037" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="800:1027" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="848:977" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1075:1388" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1149:1378" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1197:1327" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1425:1527" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1567:1652" ph="{...}" />
+            <marker date="1503350611000" expanded="true" signature="1684:1748" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,13 @@
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/bin/Debug/netcoreapp2.0/ProductShop.Data.deps.json
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/bin/Debug/netcoreapp2.0/ProductShop.Data.runtimeconfig.json
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/bin/Debug/netcoreapp2.0/ProductShop.Data.runtimeconfig.dev.json
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/bin/Debug/netcoreapp2.0/ProductShop.Data.dll
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/bin/Debug/netcoreapp2.0/ProductShop.Data.pdb
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/bin/Debug/netcoreapp2.0/ProductShop.Models.dll
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/bin/Debug/netcoreapp2.0/ProductShop.Models.pdb
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/obj/Debug/netcoreapp2.0/ProductShop.Data.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/obj/Debug/netcoreapp2.0/ProductShop.Data.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/obj/Debug/netcoreapp2.0/ProductShop.Data.AssemblyInfo.cs
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/obj/Debug/netcoreapp2.0/ProductShop.Data.dll
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/obj/Debug/netcoreapp2.0/ProductShop.Data.pdb
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/obj/Debug/netcoreapp2.0/ProductShop.Data.csprojResolveAssemblyReference.cache

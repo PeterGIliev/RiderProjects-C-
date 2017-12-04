@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/peter/RiderProjects/TeamBulder/TeamBuilder.App/TeamBuilder.App.csproj",
+    "projectName": "TeamBuilder.App",
+    "projectPath": "/Users/peter/RiderProjects/TeamBulder/TeamBuilder.App/TeamBuilder.App.csproj",
+    "outputPath": "/Users/peter/RiderProjects/TeamBulder/TeamBuilder.App/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/peter/RiderProjects/TeamBulder/TeamBuilder.Models/TeamBuilder.Models.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/TeamBulder/TeamBuilder.Models/TeamBuilder.Models.csproj"
+          },
+          "/Users/peter/RiderProjects/TeamBulder/TeamBulder.Data/TeamBulder.Data.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/TeamBulder/TeamBulder.Data/TeamBulder.Data.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0"
+        },
+        "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+          "target": "Package",
+          "version": "2.0.1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

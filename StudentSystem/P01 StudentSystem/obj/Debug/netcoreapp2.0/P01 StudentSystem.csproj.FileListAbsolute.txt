@@ -1,0 +1,11 @@
+/Users/peter/RiderProjects/StudentSystem/P01 StudentSystem/bin/Debug/netcoreapp2.0/P01 StudentSystem.deps.json
+/Users/peter/RiderProjects/StudentSystem/P01 StudentSystem/bin/Debug/netcoreapp2.0/P01 StudentSystem.runtimeconfig.json
+/Users/peter/RiderProjects/StudentSystem/P01 StudentSystem/bin/Debug/netcoreapp2.0/P01 StudentSystem.runtimeconfig.dev.json
+/Users/peter/RiderProjects/StudentSystem/P01 StudentSystem/bin/Debug/netcoreapp2.0/P01 StudentSystem.dll
+/Users/peter/RiderProjects/StudentSystem/P01 StudentSystem/bin/Debug/netcoreapp2.0/P01 StudentSystem.pdb
+/Users/peter/RiderProjects/StudentSystem/P01 StudentSystem/obj/Debug/netcoreapp2.0/P01 StudentSystem.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/StudentSystem/P01 StudentSystem/obj/Debug/netcoreapp2.0/P01 StudentSystem.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/StudentSystem/P01 StudentSystem/obj/Debug/netcoreapp2.0/P01 StudentSystem.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/StudentSystem/P01 StudentSystem/obj/Debug/netcoreapp2.0/P01 StudentSystem.AssemblyInfo.cs
+/Users/peter/RiderProjects/StudentSystem/P01 StudentSystem/obj/Debug/netcoreapp2.0/P01 StudentSystem.dll
+/Users/peter/RiderProjects/StudentSystem/P01 StudentSystem/obj/Debug/netcoreapp2.0/P01 StudentSystem.pdb

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_TeamBulder.1370847989.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TeamBuilder.App" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="TeamBuilder.App.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="StartUp.cs" t="Include" />
+        <e p="TeamBuilder.App.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TeamBuilder.Models" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Event.cs" t="Include" />
+        <e p="EventTeam.cs" t="Include" />
+        <e p="Gender.cs" t="Include" />
+        <e p="Invitation.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="TeamBuilder.Models.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Team.cs" t="Include" />
+        <e p="TeamBuilder.Models.csproj" t="IncludeRecursive" />
+        <e p="User.cs" t="Include" />
+        <e p="UserTeam.cs" t="Include" />
+      </e>
+      <e p="TeamBulder.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configuration.cs" t="Include" />
+        <e p="EntityConfig" t="Include">
+          <e p="EventConfiguration.cs" t="Include" />
+          <e p="EventTeamConfiguration.cs" t="Include" />
+          <e p="InvitationConfiguration.cs" t="Include" />
+          <e p="TeamConfiguration.cs" t="Include" />
+          <e p="UserConfiguration.cs" t="Include" />
+          <e p="UserTeamConfiguration.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20171201150610_Initial.cs" t="Include" />
+          <e p="20171201150610_Initial.Designer.cs" t="Include" />
+          <e p="20171201205457_FirstUpdate.cs" t="Include" />
+          <e p="20171201205457_FirstUpdate.Designer.cs" t="Include" />
+          <e p="TeamBuilderContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="TeamBulder.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TeamBuilderContext.cs" t="Include" />
+        <e p="TeamBulder.Data.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TeamBulder.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

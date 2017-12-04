@@ -1,0 +1,71 @@
+<products>
+  <product>{ Name = TRAMADOL HYDROCHLORIDE, Price = 516.48, Seller = Jean Henry }</product>
+  <product>{ Name = Allopurinol, Price = 518.50, Seller = Doris Cook }</product>
+  <product>{ Name = Parsley, Price = 519.06, Seller = Diana Harvey }</product>
+  <product>{ Name = equaline, Price = 520.45, Seller =  Lawson }</product>
+  <product>{ Name = Extra Strength Pain Reliever PM, Price = 542.72, Seller =  Fox }</product>
+  <product>{ Name = Propranolol Hydrochloride, Price = 546.95, Seller = Amanda Frazier }</product>
+  <product>{ Name = Prednisone, Price = 550.72, Seller = Brenda Howell }</product>
+  <product>{ Name = TERSI, Price = 554.91, Seller = Sandra Riley }</product>
+  <product>{ Name = DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER, Price = 555.12, Seller = Sarah Day }</product>
+  <product>{ Name = PLANTAGO LANCEOLATA POLLEN, Price = 561.68, Seller =  Baker }</product>
+  <product>{ Name = Echinacea Quartz Gum Support, Price = 570.08, Seller = Betty Lawson }</product>
+  <product>{ Name = Topiramate, Price = 578.77, Seller = Brandon Fuller }</product>
+  <product>{ Name = AIR, Price = 581.69, Seller = Doris Cook }</product>
+  <product>{ Name = Agaricus Equisetum Special Order, Price = 585.93, Seller = Emily Parker }</product>
+  <product>{ Name = Gemcitabine, Price = 594.79, Seller = Nicole Harris }</product>
+  <product>{ Name = Ketorolac Tromethamine, Price = 608.18, Seller =  Baker }</product>
+  <product>{ Name = Pleo Ginkgo, Price = 613.65, Seller = Brandon Fuller }</product>
+  <product>{ Name = Diastat, Price = 614.14, Seller =  Cunningham }</product>
+  <product>{ Name = No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory, Price = 616.19, Seller = Christine Gomez }</product>
+  <product>{ Name = Glipizide, Price = 621.78, Seller =  Schmidt }</product>
+  <product>{ Name = AMARANTHUS PALMERI POLLEN, Price = 623.16, Seller = Amanda Frazier }</product>
+  <product>{ Name = Foaming Hand Sanitizer, Price = 624.72, Seller = Jennifer Riley }</product>
+  <product>{ Name = ziprasidone hydrochloride, Price = 628.66, Seller = Betty Ward }</product>
+  <product>{ Name = AVANDAMET, Price = 632.08, Seller = Anna Clark }</product>
+  <product>{ Name = Imipramine Hydrochloride, Price = 648.69, Seller = Betty Ward }</product>
+  <product>{ Name = Childrens Allegra Allergy, Price = 650.97, Seller = Jean Henry }</product>
+  <product>{ Name = Strattera, Price = 658.54, Seller = Amanda Frazier }</product>
+  <product>{ Name = Amitiza, Price = 666.58, Seller =  Schmidt }</product>
+  <product>{ Name = ENBREL, Price = 673.97, Seller =  Lawson }</product>
+  <product>{ Name = Ampicillin, Price = 674.63, Seller =  Thompson }</product>
+  <product>{ Name = PRIMAXIN, Price = 686.66, Seller = Christina Patterson }</product>
+  <product>{ Name = CLARINS Ever Matte SPF 15 - 105 Nude, Price = 696.06, Seller =  Moreno }</product>
+  <product>{ Name = CALMING DIAPER RASH, Price = 700.92, Seller = Jonathan Rodriguez }</product>
+  <product>{ Name = Acnezzol Base, Price = 710.60, Seller = Paula Hill }</product>
+  <product>{ Name = Prostate, Price = 716.05, Seller =  Harrison }</product>
+  <product>{ Name = Pleo Lat, Price = 720.08, Seller =  Lawson }</product>
+  <product>{ Name = GOONG SECRET CALMING BATH, Price = 742.47, Seller = Anna Parker }</product>
+  <product>{ Name = Warfarin Sodium, Price = 770.05, Seller = Patricia Fuller }</product>
+  <product>{ Name = Pollens - Weeds and Garden Plants, Nettle Urtica dioica, Price = 782.77, Seller = Anna Clark }</product>
+  <product>{ Name = Isosorbide Mononitrate, Price = 789.91, Seller = Christine Gomez }</product>
+  <product>{ Name = Naproxen, Price = 807.22, Seller =  Schmidt }</product>
+  <product>{ Name = Meloxicam, Price = 809.18, Seller =  Harrison }</product>
+  <product>{ Name = Clarins Paris Skin Illusion - 114 cappuccino, Price = 811.42, Seller =  Stewart }</product>
+  <product>{ Name = Azithromycin, Price = 813.87, Seller =  Lawson }</product>
+  <product>{ Name = LV-FX, Price = 820.87, Seller =  Lawson }</product>
+  <product>{ Name = IOPE SUPER VITAL, Price = 824.68, Seller = Clarence Fowler }</product>
+  <product>{ Name = Aquafresh, Price = 849.93, Seller = Gloria Alexander }</product>
+  <product>{ Name = RESCRIPTOR, Price = 850.52, Seller = Patricia Fuller }</product>
+  <product>{ Name = Moore Medical Sinus Pain and Pressure Relief, Price = 855.39, Seller = Jacqueline Perez }</product>
+  <product>{ Name = Shopko Lip Treatment, Price = 861.42, Seller = Diana Harvey }</product>
+  <product>{ Name = Perrigo Benzoyl Peroxide, Price = 873.24, Seller = Fred Barnes }</product>
+  <product>{ Name = ESIKA, Price = 879.37, Seller = Kathy Gilbert }</product>
+  <product>{ Name = Levothyroxine Sodium, Price = 885.86, Seller = Clarence Fowler }</product>
+  <product>{ Name = EPZICOM, Price = 895.65, Seller =  Fox }</product>
+  <product>{ Name = Myristica Argentum Sinus Relief, Price = 904.52, Seller = Joshua Murray }</product>
+  <product>{ Name = Aspirin, Price = 925.45, Seller =  Cunningham }</product>
+  <product>{ Name = Ranitidine, Price = 926.64, Seller = Bonnie Fox }</product>
+  <product>{ Name = Care One Hemorrhoidal, Price = 932.18, Seller = Patrick King }</product>
+  <product>{ Name = Spironolactone, Price = 933.69, Seller = Brandon Fuller }</product>
+  <product>{ Name = pain relief, Price = 938.23, Seller = Fred Allen }</product>
+  <product>{ Name = Glipizide and Metformin Hydrochloride, Price = 953.60, Seller = Patrick King }</product>
+  <product>{ Name = Metformin Hydrochloride, Price = 953.99, Seller = Chris Mitchell }</product>
+  <product>{ Name = Homeopathic Rheumatism, Price = 967.08, Seller = Christina Patterson }</product>
+  <product>{ Name = NEO-POLY-BAC HYDRO, Price = 967.32, Seller = Joshua Murray }</product>
+  <product>{ Name = Clearskin, Price = 968.59, Seller = Betty Lawson }</product>
+  <product>{ Name = Dawn Ultra Antibacterial Hand, Price = 969.86, Seller = Billy Parker }</product>
+  <product>{ Name = Megestrol Acetate, Price = 976.15, Seller = Wanda Harris }</product>
+  <product>{ Name = Smooth texture Orange flavor, Price = 976.65, Seller = Patricia Cooper }</product>
+  <product>{ Name = Retin-A MICRO, Price = 995.98, Seller = Wanda Harris }</product>
+</products>

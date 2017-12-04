@@ -1,0 +1,8 @@
+/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data.Models/bin/Debug/netstandard2.0/P03 FootballBetting.Data.Models.deps.json
+/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data.Models/bin/Debug/netstandard2.0/P03 FootballBetting.Data.Models.dll
+/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data.Models/bin/Debug/netstandard2.0/P03 FootballBetting.Data.Models.pdb
+/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data.Models/obj/Debug/netstandard2.0/P03 FootballBetting.Data.Models.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data.Models/obj/Debug/netstandard2.0/P03 FootballBetting.Data.Models.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data.Models/obj/Debug/netstandard2.0/P03 FootballBetting.Data.Models.AssemblyInfo.cs
+/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data.Models/obj/Debug/netstandard2.0/P03 FootballBetting.Data.Models.dll
+/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data.Models/obj/Debug/netstandard2.0/P03 FootballBetting.Data.Models.pdb

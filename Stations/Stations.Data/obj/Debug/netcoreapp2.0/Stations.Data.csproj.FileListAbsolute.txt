@@ -1,0 +1,12 @@
+/Users/peter/RiderProjects/Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Data.deps.json
+/Users/peter/RiderProjects/Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Data.runtimeconfig.json
+/Users/peter/RiderProjects/Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Data.runtimeconfig.dev.json
+/Users/peter/RiderProjects/Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Data.dll
+/Users/peter/RiderProjects/Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Data.pdb
+/Users/peter/RiderProjects/Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Models.dll
+/Users/peter/RiderProjects/Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Models.pdb
+/Users/peter/RiderProjects/Stations/Stations.Data/obj/Debug/netcoreapp2.0/Stations.Data.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/Stations/Stations.Data/obj/Debug/netcoreapp2.0/Stations.Data.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/Stations/Stations.Data/obj/Debug/netcoreapp2.0/Stations.Data.AssemblyInfo.cs
+/Users/peter/RiderProjects/Stations/Stations.Data/obj/Debug/netcoreapp2.0/Stations.Data.dll
+/Users/peter/RiderProjects/Stations/Stations.Data/obj/Debug/netcoreapp2.0/Stations.Data.pdb

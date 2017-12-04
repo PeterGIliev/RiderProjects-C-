@@ -1,0 +1,15 @@
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/bin/Debug/netcoreapp2.0/P01 BillsPaymentSystem.App.deps.json
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/bin/Debug/netcoreapp2.0/P01 BillsPaymentSystem.App.runtimeconfig.json
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/bin/Debug/netcoreapp2.0/P01 BillsPaymentSystem.App.runtimeconfig.dev.json
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/bin/Debug/netcoreapp2.0/P01 BillsPaymentSystem.App.dll
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/bin/Debug/netcoreapp2.0/P01 BillsPaymentSystem.App.pdb
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/bin/Debug/netcoreapp2.0/P01 BillsPaymentSystem.Data.dll
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/bin/Debug/netcoreapp2.0/P01 BillsPaymentSystem.Data.Models.dll
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/bin/Debug/netcoreapp2.0/P01 BillsPaymentSystem.Data.Models.pdb
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/bin/Debug/netcoreapp2.0/P01 BillsPaymentSystem.Data.pdb
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/obj/Debug/netcoreapp2.0/P01 BillsPaymentSystem.App.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/obj/Debug/netcoreapp2.0/P01 BillsPaymentSystem.App.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/obj/Debug/netcoreapp2.0/P01 BillsPaymentSystem.App.AssemblyInfo.cs
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/obj/Debug/netcoreapp2.0/P01 BillsPaymentSystem.App.dll
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/obj/Debug/netcoreapp2.0/P01 BillsPaymentSystem.App.pdb
+/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.App/obj/Debug/netcoreapp2.0/P01 BillsPaymentSystem.App.csprojResolveAssemblyReference.cache

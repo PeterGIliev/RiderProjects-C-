@@ -1,0 +1,9 @@
+/Users/peter/RiderProjects/Cars/Cars.Data/bin/Debug/netstandard2.0/Cars.Data.deps.json
+/Users/peter/RiderProjects/Cars/Cars.Data/bin/Debug/netstandard2.0/Cars.Data.dll
+/Users/peter/RiderProjects/Cars/Cars.Data/bin/Debug/netstandard2.0/Cars.Data.pdb
+/Users/peter/RiderProjects/Cars/Cars.Data/obj/Debug/netstandard2.0/Cars.Data.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/Cars/Cars.Data/obj/Debug/netstandard2.0/Cars.Data.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/Cars/Cars.Data/obj/Debug/netstandard2.0/Cars.Data.AssemblyInfo.cs
+/Users/peter/RiderProjects/Cars/Cars.Data/obj/Debug/netstandard2.0/Cars.Data.dll
+/Users/peter/RiderProjects/Cars/Cars.Data/obj/Debug/netstandard2.0/Cars.Data.pdb
+/Users/peter/RiderProjects/Cars/Cars.Data/obj/Debug/netstandard2.0/Cars.Data.csprojResolveAssemblyReference.cache

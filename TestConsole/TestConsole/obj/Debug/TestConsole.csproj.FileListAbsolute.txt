@@ -1,6 +1,0 @@
-/Users/peter/RiderProjects/TestConsole/TestConsole/bin/Debug/TestConsole.exe
-/Users/peter/RiderProjects/TestConsole/TestConsole/bin/Debug/TestConsole.pdb
-/Users/peter/RiderProjects/TestConsole/TestConsole/obj/Debug/TestConsole.csprojResolveAssemblyReference.cache
-/Users/peter/RiderProjects/TestConsole/TestConsole/obj/Debug/TestConsole.csproj.CoreCompileInputs.cache
-/Users/peter/RiderProjects/TestConsole/TestConsole/obj/Debug/TestConsole.exe
-/Users/peter/RiderProjects/TestConsole/TestConsole/obj/Debug/TestConsole.pdb

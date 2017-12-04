@@ -1,0 +1,26 @@
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+//using P03_FootballBetting.Data.Validation;
+
+namespace P03_FootballBetting.Data.Models
+{
+    public class Bet
+    {
+        
+        public int BetId { get; set; }
+
+        [Range(0, 200)]
+        public decimal Amount { get; set; }
+
+        public GameResult? Prediction { get; set; }
+
+        public DateTime? DateTime { get; set; }
+
+        public int? GameId { get; set; }
+        public Game Game { get; set; }
+
+        public int? UserId { get; set; }
+        public User User { get; set; }
+        
+    }
+}

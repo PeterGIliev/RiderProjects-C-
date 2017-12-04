@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_P01 HospitalDatabase.1753079893.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="P01 HospitalDatabase" t="IncludeRecursive">
+        <e p="Archive 2.zip" t="Include" />
+        <e p="Archive.zip" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="Configuration.cs" t="Include" />
+          <e p="HospitalContext.cs" t="Include" />
+          <e p="Models" t="Include">
+            <e p="Diagnose.cs" t="Include" />
+            <e p="Doctor.cs" t="Include" />
+            <e p="Medicament.cs" t="Include" />
+            <e p="Patient.cs" t="Include" />
+            <e p="PatientMedicament.cs" t="Include" />
+            <e p="Visitation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="DatabaseInitializer.cs" t="Include" />
+        <e p="Generators" t="Include">
+          <e p="AddressGenerator.cs" t="Include" />
+          <e p="EmailGenerator.cs" t="Include" />
+          <e p="MedicamentGenerator.cs" t="Include" />
+          <e p="NameGenerator.cs" t="Include" />
+          <e p="PatientGenerator.cs" t="Include" />
+          <e p="PrescriptionGenerator.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20171111225153_Initial.cs" t="Include" />
+          <e p="20171111225153_Initial.Designer.cs" t="Include" />
+          <e p="20171111232200_InTheMeanTime.cs" t="Include" />
+          <e p="20171111232200_InTheMeanTime.Designer.cs" t="Include" />
+          <e p="20171112095535_AddDoctor.cs" t="Include" />
+          <e p="20171112095535_AddDoctor.Designer.cs" t="Include" />
+          <e p="HospitalContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="P01 HospitalDatabase.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="P01 HospitalDatabase.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="P01 HospitalDatabase.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

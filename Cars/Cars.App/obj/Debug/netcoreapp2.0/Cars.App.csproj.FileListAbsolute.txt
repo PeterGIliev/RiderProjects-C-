@@ -1,0 +1,15 @@
+/Users/peter/RiderProjects/Cars/Cars.App/bin/Debug/netcoreapp2.0/Cars.App.deps.json
+/Users/peter/RiderProjects/Cars/Cars.App/bin/Debug/netcoreapp2.0/Cars.App.runtimeconfig.json
+/Users/peter/RiderProjects/Cars/Cars.App/bin/Debug/netcoreapp2.0/Cars.App.runtimeconfig.dev.json
+/Users/peter/RiderProjects/Cars/Cars.App/bin/Debug/netcoreapp2.0/Cars.App.dll
+/Users/peter/RiderProjects/Cars/Cars.App/bin/Debug/netcoreapp2.0/Cars.App.pdb
+/Users/peter/RiderProjects/Cars/Cars.App/obj/Debug/netcoreapp2.0/Cars.App.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/Cars/Cars.App/obj/Debug/netcoreapp2.0/Cars.App.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/Cars/Cars.App/obj/Debug/netcoreapp2.0/Cars.App.AssemblyInfo.cs
+/Users/peter/RiderProjects/Cars/Cars.App/obj/Debug/netcoreapp2.0/Cars.App.dll
+/Users/peter/RiderProjects/Cars/Cars.App/obj/Debug/netcoreapp2.0/Cars.App.pdb
+/Users/peter/RiderProjects/Cars/Cars.App/bin/Debug/netcoreapp2.0/Cars.Data.dll
+/Users/peter/RiderProjects/Cars/Cars.App/bin/Debug/netcoreapp2.0/Cars.Data.pdb
+/Users/peter/RiderProjects/Cars/Cars.App/obj/Debug/netcoreapp2.0/Cars.App.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/Cars/Cars.App/bin/Debug/netcoreapp2.0/Cars.Seed.dll
+/Users/peter/RiderProjects/Cars/Cars.App/bin/Debug/netcoreapp2.0/Cars.Seed.pdb

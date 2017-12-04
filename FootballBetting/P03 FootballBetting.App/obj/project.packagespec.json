@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.App/P03 FootballBetting.App.csproj",
+    "projectName": "P03 FootballBetting.App",
+    "projectPath": "/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.App/P03 FootballBetting.App.csproj",
+    "outputPath": "/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.App/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data.Models/P03 FootballBetting.Data.Models.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data.Models/P03 FootballBetting.Data.Models.csproj"
+          },
+          "/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data/P03 FootballBetting.Data.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data/P03 FootballBetting.Data.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "2.0.1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

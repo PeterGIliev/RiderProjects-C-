@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/peter/RiderProjects/Stations/Stations.App/Stations.App.csproj",
+    "projectName": "Stations.App",
+    "projectPath": "/Users/peter/RiderProjects/Stations/Stations.App/Stations.App.csproj",
+    "outputPath": "/Users/peter/RiderProjects/Stations/Stations.App/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/peter/RiderProjects/Stations/Stations.Data/Stations.Data.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/Stations/Stations.Data/Stations.Data.csproj"
+          },
+          "/Users/peter/RiderProjects/Stations/Stations.Models/Stations.Models.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/Stations/Stations.Models/Stations.Models.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0"
+        },
+        "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+          "target": "Package",
+          "version": "2.0.1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

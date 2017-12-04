@@ -1,0 +1,32 @@
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.StartUp.deps.json
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.StartUp.runtimeconfig.json
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.StartUp.runtimeconfig.dev.json
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.StartUp.dll
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.StartUp.pdb
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.Data.dll
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.Initializer.dll
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.Models.dll
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.Data.pdb
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.Initializer.pdb
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.Models.pdb
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/obj/Debug/netcoreapp2.0/BookShop.StartUp.csproj.CoreCompileInputs.cache
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/obj/Debug/netcoreapp2.0/BookShop.StartUp.AssemblyInfoInputs.cache
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/obj/Debug/netcoreapp2.0/BookShop.StartUp.AssemblyInfo.cs
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/obj/Debug/netcoreapp2.0/BookShop.StartUp.dll
+/Users/peter/Dropbox/SoftUni/04 Professional Module/04 Databases Advanced/18. Advanced Querying Exercises/BookShop/BookShop.StartUp/obj/Debug/netcoreapp2.0/BookShop.StartUp.pdb
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.StartUp.deps.json
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.StartUp.runtimeconfig.json
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.StartUp.runtimeconfig.dev.json
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.StartUp.dll
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.StartUp.pdb
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.Data.dll
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.Initializer.dll
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.Models.dll
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.Data.pdb
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.Initializer.pdb
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/bin/Debug/netcoreapp2.0/BookShop.Models.pdb
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/obj/Debug/netcoreapp2.0/BookShop.StartUp.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/obj/Debug/netcoreapp2.0/BookShop.StartUp.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/obj/Debug/netcoreapp2.0/BookShop.StartUp.AssemblyInfo.cs
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/obj/Debug/netcoreapp2.0/BookShop.StartUp.dll
+/Users/peter/RiderProjects/BookShop/BookShop.StartUp/obj/Debug/netcoreapp2.0/BookShop.StartUp.pdb

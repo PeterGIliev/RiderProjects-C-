@@ -1,0 +1,8 @@
+/Users/peter/RiderProjects/TeamBulder/TeamBulder.Data/bin/Debug/netstandard2.0/TeamBulder.Data.deps.json
+/Users/peter/RiderProjects/TeamBulder/TeamBulder.Data/bin/Debug/netstandard2.0/TeamBulder.Data.dll
+/Users/peter/RiderProjects/TeamBulder/TeamBulder.Data/bin/Debug/netstandard2.0/TeamBulder.Data.pdb
+/Users/peter/RiderProjects/TeamBulder/TeamBulder.Data/obj/Debug/netstandard2.0/TeamBulder.Data.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/TeamBulder/TeamBulder.Data/obj/Debug/netstandard2.0/TeamBulder.Data.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/TeamBulder/TeamBulder.Data/obj/Debug/netstandard2.0/TeamBulder.Data.AssemblyInfo.cs
+/Users/peter/RiderProjects/TeamBulder/TeamBulder.Data/obj/Debug/netstandard2.0/TeamBulder.Data.dll
+/Users/peter/RiderProjects/TeamBulder/TeamBulder.Data/obj/Debug/netstandard2.0/TeamBulder.Data.pdb

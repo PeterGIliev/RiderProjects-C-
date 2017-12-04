@@ -1,12 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
+using P03_FootballBetting.Data;
 
 namespace ConsoleApplication
 {
-    internal class Program
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
+            var context = new FootballBettingContext();
+
+//            context.Database.EnsureDeleted();
+//            
+            context.Database.EnsureCreated();
         }
     }
 }

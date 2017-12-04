@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_BookShop.-2046612427.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BookShop.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BookShop.Data.csproj" t="IncludeRecursive" />
+        <e p="BookShopContext.cs" t="Include" />
+        <e p="Configuration.cs" t="Include" />
+        <e p="EntityConfiguration" t="Include">
+          <e p="AuthorConfiguration.cs" t="Include" />
+          <e p="BookCategoryConfiguration.cs" t="Include" />
+          <e p="BookConfiguration.cs" t="Include" />
+          <e p="CategoryConfiguration.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="BookShop.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="BookShop.Initializer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BookShop.Initializer.csproj" t="IncludeRecursive" />
+        <e p="DbInitializer.cs" t="Include" />
+        <e p="Generators" t="Include">
+          <e p="AuthorGenerator.cs" t="Include" />
+          <e p="BookGenerator.cs" t="Include" />
+          <e p="CategoryGenerator.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="BookShop.Initializer.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="BookShop.Models" t="IncludeRecursive">
+        <e p="Author.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Book.cs" t="Include" />
+        <e p="BookCategory.cs" t="Include" />
+        <e p="BookShop.Models.csproj" t="IncludeRecursive" />
+        <e p="Category.cs" t="Include" />
+        <e p="Enums" t="Include">
+          <e p="AgeRestriction.cs" t="Include" />
+          <e p="EditionType.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="BookShop.Models.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="BookShop.sln" t="IncludeFlat" />
+      <e p="BookShop.StartUp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BookShop.StartUp.csproj" t="IncludeRecursive" />
+        <e p="Dto" t="Include">
+          <e p="AuthorDto.cs" t="Include" />
+          <e p="BookDto.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="BookShop.StartUp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="StartUp.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

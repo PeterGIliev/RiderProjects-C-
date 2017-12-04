@@ -1,0 +1,10 @@
+/Users/peter/RiderProjects/Cars/Cars.Seed/bin/Debug/netstandard2.0/Cars.Seed.deps.json
+/Users/peter/RiderProjects/Cars/Cars.Seed/bin/Debug/netstandard2.0/Cars.Seed.dll
+/Users/peter/RiderProjects/Cars/Cars.Seed/bin/Debug/netstandard2.0/Cars.Seed.pdb
+/Users/peter/RiderProjects/Cars/Cars.Seed/bin/Debug/netstandard2.0/Cars.Data.dll
+/Users/peter/RiderProjects/Cars/Cars.Seed/bin/Debug/netstandard2.0/Cars.Data.pdb
+/Users/peter/RiderProjects/Cars/Cars.Seed/obj/Debug/netstandard2.0/Cars.Seed.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/Cars/Cars.Seed/obj/Debug/netstandard2.0/Cars.Seed.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/Cars/Cars.Seed/obj/Debug/netstandard2.0/Cars.Seed.AssemblyInfo.cs
+/Users/peter/RiderProjects/Cars/Cars.Seed/obj/Debug/netstandard2.0/Cars.Seed.dll
+/Users/peter/RiderProjects/Cars/Cars.Seed/obj/Debug/netstandard2.0/Cars.Seed.pdb

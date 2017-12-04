@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/peter/RiderProjects/Cars/Cars.App/Cars.App.csproj",
+    "projectName": "Cars.App",
+    "projectPath": "/Users/peter/RiderProjects/Cars/Cars.App/Cars.App.csproj",
+    "outputPath": "/Users/peter/RiderProjects/Cars/Cars.App/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/peter/RiderProjects/Cars/Cars.Data/Cars.Data.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/Cars/Cars.Data/Cars.Data.csproj"
+          },
+          "/Users/peter/RiderProjects/Cars/Cars.Seed/Cars.Seed.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/Cars/Cars.Seed/Cars.Seed.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "11.0.1-beta1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

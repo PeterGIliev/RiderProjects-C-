@@ -1,0 +1,9 @@
+/Users/peter/RiderProjects/TeamBulder/TeamBuilder.Models/obj/Debug/netstandard2.0/TeamBuilder.Models.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/TeamBulder/TeamBuilder.Models/obj/Debug/netstandard2.0/TeamBuilder.Models.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/TeamBulder/TeamBuilder.Models/obj/Debug/netstandard2.0/TeamBuilder.Models.AssemblyInfo.cs
+/Users/peter/RiderProjects/TeamBulder/TeamBuilder.Models/bin/Debug/netstandard2.0/TeamBuilder.Models.deps.json
+/Users/peter/RiderProjects/TeamBulder/TeamBuilder.Models/bin/Debug/netstandard2.0/TeamBuilder.Models.dll
+/Users/peter/RiderProjects/TeamBulder/TeamBuilder.Models/bin/Debug/netstandard2.0/TeamBuilder.Models.pdb
+/Users/peter/RiderProjects/TeamBulder/TeamBuilder.Models/obj/Debug/netstandard2.0/TeamBuilder.Models.dll
+/Users/peter/RiderProjects/TeamBulder/TeamBuilder.Models/obj/Debug/netstandard2.0/TeamBuilder.Models.pdb
+/Users/peter/RiderProjects/TeamBulder/TeamBuilder.Models/obj/Debug/netstandard2.0/TeamBuilder.Models.csprojResolveAssemblyReference.cache

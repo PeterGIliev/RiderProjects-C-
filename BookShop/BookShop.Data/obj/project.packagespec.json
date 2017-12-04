@@ -1,0 +1,42 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/peter/RiderProjects/BookShop/BookShop.Data/BookShop.Data.csproj",
+    "projectName": "BookShop.Data",
+    "projectPath": "/Users/peter/RiderProjects/BookShop/BookShop.Data/BookShop.Data.csproj",
+    "outputPath": "/Users/peter/RiderProjects/BookShop/BookShop.Data/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/peter/RiderProjects/BookShop/BookShop.Models/BookShop.Models.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/BookShop/BookShop.Models/BookShop.Models.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

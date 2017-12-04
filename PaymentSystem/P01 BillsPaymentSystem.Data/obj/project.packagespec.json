@@ -1,0 +1,49 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.Data/P01 BillsPaymentSystem.Data.csproj",
+    "projectName": "P01 BillsPaymentSystem.Data",
+    "projectPath": "/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.Data/P01 BillsPaymentSystem.Data.csproj",
+    "outputPath": "/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.Data/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.Data.Models/P01 BillsPaymentSystem.Data.Models.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/PaymentSystem/P01 BillsPaymentSystem.Data.Models/P01 BillsPaymentSystem.Data.Models.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "2.0.1"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "2.0.1"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "target": "Package",
+          "version": "2.0.1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

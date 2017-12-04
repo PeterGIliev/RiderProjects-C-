@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/Class Person/Class Person/bin/Debug/ClassPerson.exe
+/Users/peter/RiderProjects/Class Person/Class Person/bin/Debug/ClassPerson.pdb
+/Users/peter/RiderProjects/Class Person/Class Person/obj/Debug/Class Person.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/Class Person/Class Person/obj/Debug/Class Person.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/Class Person/Class Person/obj/Debug/ClassPerson.exe
+/Users/peter/RiderProjects/Class Person/Class Person/obj/Debug/ClassPerson.pdb

@@ -1,0 +1,48 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/peter/RiderProjects/ProductShop/ProductShop.App/ProductShop.App.csproj",
+    "projectName": "ProductShop.App",
+    "projectPath": "/Users/peter/RiderProjects/ProductShop/ProductShop.App/ProductShop.App.csproj",
+    "outputPath": "/Users/peter/RiderProjects/ProductShop/ProductShop.App/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/peter/RiderProjects/ProductShop/ProductShop.Data/ProductShop.Data.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/ProductShop/ProductShop.Data/ProductShop.Data.csproj"
+          },
+          "/Users/peter/RiderProjects/ProductShop/ProductShop.Models/ProductShop.Models.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/ProductShop/ProductShop.Models/ProductShop.Models.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0"
+        },
+        "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+          "target": "Package",
+          "version": "2.0.1"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "11.0.1-beta1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

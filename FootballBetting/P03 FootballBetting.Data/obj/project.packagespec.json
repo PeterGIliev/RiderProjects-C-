@@ -1,0 +1,42 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data/P03 FootballBetting.Data.csproj",
+    "projectName": "P03 FootballBetting.Data",
+    "projectPath": "/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data/P03 FootballBetting.Data.csproj",
+    "outputPath": "/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data.Models/P03 FootballBetting.Data.Models.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/FootballBetting/P03 FootballBetting.Data.Models/P03 FootballBetting.Data.Models.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "2.0.1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

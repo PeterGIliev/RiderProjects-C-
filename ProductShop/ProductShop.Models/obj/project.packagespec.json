@@ -1,0 +1,38 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/peter/RiderProjects/ProductShop/ProductShop.Models/ProductShop.Models.csproj",
+    "projectName": "ProductShop.Models",
+    "projectPath": "/Users/peter/RiderProjects/ProductShop/ProductShop.Models/ProductShop.Models.csproj",
+    "outputPath": "/Users/peter/RiderProjects/ProductShop/ProductShop.Models/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "System.ComponentModel.Annotations": {
+          "target": "Package",
+          "version": "4.4.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

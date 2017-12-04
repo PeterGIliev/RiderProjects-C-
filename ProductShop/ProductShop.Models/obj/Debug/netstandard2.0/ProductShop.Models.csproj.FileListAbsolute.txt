@@ -1,0 +1,9 @@
+/Users/peter/RiderProjects/ProductShop/ProductShop.Models/bin/Debug/netstandard2.0/ProductShop.Models.deps.json
+/Users/peter/RiderProjects/ProductShop/ProductShop.Models/bin/Debug/netstandard2.0/ProductShop.Models.dll
+/Users/peter/RiderProjects/ProductShop/ProductShop.Models/bin/Debug/netstandard2.0/ProductShop.Models.pdb
+/Users/peter/RiderProjects/ProductShop/ProductShop.Models/obj/Debug/netstandard2.0/ProductShop.Models.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/ProductShop/ProductShop.Models/obj/Debug/netstandard2.0/ProductShop.Models.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/ProductShop/ProductShop.Models/obj/Debug/netstandard2.0/ProductShop.Models.AssemblyInfo.cs
+/Users/peter/RiderProjects/ProductShop/ProductShop.Models/obj/Debug/netstandard2.0/ProductShop.Models.dll
+/Users/peter/RiderProjects/ProductShop/ProductShop.Models/obj/Debug/netstandard2.0/ProductShop.Models.pdb
+/Users/peter/RiderProjects/ProductShop/ProductShop.Models/obj/Debug/netstandard2.0/ProductShop.Models.csprojResolveAssemblyReference.cache

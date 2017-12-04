@@ -1,0 +1,12 @@
+/Users/peter/RiderProjects/Football/FootballBetting/bin/Debug/netcoreapp2.0/FootballBetting.deps.json
+/Users/peter/RiderProjects/Football/FootballBetting/bin/Debug/netcoreapp2.0/FootballBetting.runtimeconfig.json
+/Users/peter/RiderProjects/Football/FootballBetting/bin/Debug/netcoreapp2.0/FootballBetting.runtimeconfig.dev.json
+/Users/peter/RiderProjects/Football/FootballBetting/bin/Debug/netcoreapp2.0/FootballBetting.dll
+/Users/peter/RiderProjects/Football/FootballBetting/bin/Debug/netcoreapp2.0/FootballBetting.pdb
+/Users/peter/RiderProjects/Football/FootballBetting/bin/Debug/netcoreapp2.0/P03 FootballBetting.Data.dll
+/Users/peter/RiderProjects/Football/FootballBetting/bin/Debug/netcoreapp2.0/P03 FootballBetting.Data.pdb
+/Users/peter/RiderProjects/Football/FootballBetting/obj/Debug/netcoreapp2.0/FootballBetting.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/Football/FootballBetting/obj/Debug/netcoreapp2.0/FootballBetting.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/Football/FootballBetting/obj/Debug/netcoreapp2.0/FootballBetting.AssemblyInfo.cs
+/Users/peter/RiderProjects/Football/FootballBetting/obj/Debug/netcoreapp2.0/FootballBetting.dll
+/Users/peter/RiderProjects/Football/FootballBetting/obj/Debug/netcoreapp2.0/FootballBetting.pdb

@@ -1,65 +1,80 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq
 
 namespace OOP0017ShoppingSpree
 {
     public class Person
     {
         private string name;
-        private decimal money;
-        private List<Product> bagOfProducts;
 
-        public Person(string name, decimal money)
-        {
-            this.Name = name;
-            this.Money = money;
-            this.bagOfProducts = new List<Product>();
-        }
-        
+        private decimal money;
+
+        private ICollection<Product> ShopingBag { get; set; }
+
         public string Name
         {
             get { return this.name; }
-            
-            private set
+            set
             {
-                if (string.IsNullOrWhiteSpace(value))
+                if (value != string.Empty)
                 {
-                    throw new ArgumentException($"{nameof(this.Name)} cannot be empty.");
+                    this.name = value;
                 }
-
-                this.name = value;
+                else
+                {
+                    throw new Exception("Name cannot be empty");
+                }
             }
         }
-        
+
         public decimal Money
         {
             get { return this.money; }
-            
-            private set
+            set
             {
-                if (value < 0)
+                if (value >= 0)
                 {
-                    throw new ArgumentException("Money cannot be negative");
+                    this.money = value;
                 }
-
-                this.money = value;
+                else
+                {
+                    throw new Exception("Money cannot be negative");
+                }
             }
         }
 
-//        public List<Product> BagOfProducts { get; set; }
-        
-
-        public void AddProductToTheBag(Product product)
+        public Person(string name, decimal money) : base()
         {
-            if (product.Cost > this.Money)
-            {
-                throw new InvalidOperationException($"{this.Name} can't afford {product.Name}");
-            }
-            
-            this.Money -= product.Cost;
-            
-            this.bagOfProducts.Add(product);
+            this.Name = name;
+            this.Money = money;
+            this.ShopingBag = new List<Product>();
         }
-       
+
+        public void Buy(Product product)
+        {
+            if (this.Money >= product.Money)
+            {
+                this.Money -= product.Money;
+                this.ShopingBag.Add(product);
+            }
+            else
+            {
+                throw new Exception($"{this.Name} can't afford {product.ProductName}");
+            }
+        }
+
+        public override string ToString()
+        {
+            if (this.ShopingBag.Count > 0)
+            {
+                var purchases = this.ShopingBag.Select(p => p.ProductName).ToArray();
+                return $"{this.Name} - {string.Join(", ", purchases)}";
+            }
+            else
+            {
+                return $"{this.Name} - Nothing bought";
+            }
+        }
     }
 }
