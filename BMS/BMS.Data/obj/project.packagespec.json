@@ -1,0 +1,46 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/peter/RiderProjects/BMS/BMS.Data/BMS.Data.csproj",
+    "projectName": "BMS.Data",
+    "projectPath": "/Users/peter/RiderProjects/BMS/BMS.Data/BMS.Data.csproj",
+    "outputPath": "/Users/peter/RiderProjects/BMS/BMS.Data/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "/Users/peter/RiderProjects/BMS/BMS.Models/BMS.Models.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/BMS/BMS.Models/BMS.Models.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "2.0.1"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "2.0.1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

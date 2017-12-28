@@ -8,3 +8,4 @@
 /Users/peter/RiderProjects/ProductShop/ProductShop.Data/obj/Debug/netstandard2.0/ProductShop.Data.AssemblyInfo.cs
 /Users/peter/RiderProjects/ProductShop/ProductShop.Data/obj/Debug/netstandard2.0/ProductShop.Data.dll
 /Users/peter/RiderProjects/ProductShop/ProductShop.Data/obj/Debug/netstandard2.0/ProductShop.Data.pdb
+/Users/peter/RiderProjects/ProductShop/ProductShop.Data/obj/Debug/netstandard2.0/ProductShop.Data.csprojResolveAssemblyReference.cache

@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/peter/RiderProjects/DB/BMS.App/BMS.App.csproj",
+    "projectName": "BMS.App",
+    "projectPath": "/Users/peter/RiderProjects/DB/BMS.App/BMS.App.csproj",
+    "outputPath": "/Users/peter/RiderProjects/DB/BMS.App/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/peter/RiderProjects/DB/BMS.Data/BMS.Data.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/DB/BMS.Data/BMS.Data.csproj"
+          },
+          "/Users/peter/RiderProjects/DB/BMS.Models/BMS.Models.csproj": {
+            "projectPath": "/Users/peter/RiderProjects/DB/BMS.Models/BMS.Models.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0"
+        },
+        "Microsoft.EntityFrameWorkCore.Tools": {
+          "target": "Package",
+          "version": "2.0.1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

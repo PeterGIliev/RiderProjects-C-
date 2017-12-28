@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/Abstraction and Interfaces/Abstraction and Interfaces/bin/Debug/AbstractionandInterfaces.exe
+/Users/peter/RiderProjects/Abstraction and Interfaces/Abstraction and Interfaces/bin/Debug/AbstractionandInterfaces.pdb
+/Users/peter/RiderProjects/Abstraction and Interfaces/Abstraction and Interfaces/obj/Debug/Abstraction and Interfaces.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/Abstraction and Interfaces/Abstraction and Interfaces/obj/Debug/Abstraction and Interfaces.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/Abstraction and Interfaces/Abstraction and Interfaces/obj/Debug/AbstractionandInterfaces.exe
+/Users/peter/RiderProjects/Abstraction and Interfaces/Abstraction and Interfaces/obj/Debug/AbstractionandInterfaces.pdb

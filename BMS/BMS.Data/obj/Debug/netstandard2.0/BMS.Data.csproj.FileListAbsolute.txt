@@ -1,0 +1,11 @@
+/Users/peter/RiderProjects/BMS/BMS.Data/bin/Debug/netstandard2.0/BMS.Data.deps.json
+/Users/peter/RiderProjects/BMS/BMS.Data/bin/Debug/netstandard2.0/BMS.Data.dll
+/Users/peter/RiderProjects/BMS/BMS.Data/bin/Debug/netstandard2.0/BMS.Data.pdb
+/Users/peter/RiderProjects/BMS/BMS.Data/bin/Debug/netstandard2.0/BMS.Models.dll
+/Users/peter/RiderProjects/BMS/BMS.Data/bin/Debug/netstandard2.0/BMS.Models.pdb
+/Users/peter/RiderProjects/BMS/BMS.Data/obj/Debug/netstandard2.0/BMS.Data.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/BMS/BMS.Data/obj/Debug/netstandard2.0/BMS.Data.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/BMS/BMS.Data/obj/Debug/netstandard2.0/BMS.Data.AssemblyInfo.cs
+/Users/peter/RiderProjects/BMS/BMS.Data/obj/Debug/netstandard2.0/BMS.Data.dll
+/Users/peter/RiderProjects/BMS/BMS.Data/obj/Debug/netstandard2.0/BMS.Data.pdb
+/Users/peter/RiderProjects/BMS/BMS.Data/obj/Debug/netstandard2.0/BMS.Data.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+/Users/peter/RiderProjects/MvcApplication/MvcApplication/bin/Debug/netcoreapp2.0/MvcApplication.deps.json
+/Users/peter/RiderProjects/MvcApplication/MvcApplication/bin/Debug/netcoreapp2.0/MvcApplication.runtimeconfig.json
+/Users/peter/RiderProjects/MvcApplication/MvcApplication/bin/Debug/netcoreapp2.0/MvcApplication.runtimeconfig.dev.json
+/Users/peter/RiderProjects/MvcApplication/MvcApplication/bin/Debug/netcoreapp2.0/MvcApplication.dll
+/Users/peter/RiderProjects/MvcApplication/MvcApplication/bin/Debug/netcoreapp2.0/MvcApplication.pdb
+/Users/peter/RiderProjects/MvcApplication/MvcApplication/obj/Debug/netcoreapp2.0/MvcApplication.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/MvcApplication/MvcApplication/obj/Debug/netcoreapp2.0/MvcApplication.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/MvcApplication/MvcApplication/obj/Debug/netcoreapp2.0/MvcApplication.AssemblyInfo.cs
+/Users/peter/RiderProjects/MvcApplication/MvcApplication/obj/Debug/netcoreapp2.0/MvcApplication.dll
+/Users/peter/RiderProjects/MvcApplication/MvcApplication/obj/Debug/netcoreapp2.0/MvcApplication.pdb
+/Users/peter/RiderProjects/MvcApplication/MvcApplication/obj/Debug/netcoreapp2.0/MvcApplication.csprojResolveAssemblyReference.cache

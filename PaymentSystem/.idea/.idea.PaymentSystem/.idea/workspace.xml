@@ -39,14 +39,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PaymentMethodConfiguration.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PaymentMethodConfiguration.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/PaymentMethodConfiguration.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="176">
               <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
               <folding>
                 <marker date="1510997588000" expanded="false" signature="6:179" ph="..." />
-                <marker date="1510997588000" expanded="true" signature="218:926" ph="{...}" />
                 <marker date="1510997588000" expanded="true" signature="306:924" ph="{...}" />
                 <marker date="1510997588000" expanded="true" signature="384:918" ph="{...}" />
               </folding>
@@ -54,11 +53,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BillsPaymentSystemContext.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CreditCardConfiguration.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/CreditCardConfiguration.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+              <folding>
+                <marker date="1510919652000" expanded="false" signature="6:133" ph="..." />
+                <marker date="1510919652000" expanded="true" signature="254:522" ph="{...}" />
+                <marker date="1510919652000" expanded="true" signature="329:516" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BillsPaymentSystemContext.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/BillsPaymentSystemContext.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="36" column="64" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="64" />
+            <state relative-caret-position="289">
+              <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding>
                 <marker date="1510919652000" expanded="false" signature="6:78" ph="..." />
                 <marker date="1510919652000" expanded="true" signature="117:1293" ph="{...}" />
@@ -80,7 +93,6 @@
               <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <marker date="1510919652000" expanded="false" signature="6:133" ph="..." />
-                <marker date="1510919652000" expanded="true" signature="172:737" ph="{...}" />
                 <marker date="1510919652000" expanded="true" signature="256:735" ph="{...}" />
                 <marker date="1510919652000" expanded="true" signature="332:729" ph="{...}" />
               </folding>
@@ -117,19 +129,19 @@
     </leaf>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.App/StartUp.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/Configuration.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/StartUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/PaymentMethodConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/CreditCardConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/BankAccountConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/UserConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/CreditCardConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/PaymentMethodConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data.Models/User.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data.Models/CreditCard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data.Models/BankAccount.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data.Models/PaymentMethodType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/BillsPaymentSystemContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data.Models/PaymentMethod.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data.Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/Configuration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data.Models/PaymentMethodType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.App/StartUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/BillsPaymentSystemContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/StartUp.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -192,23 +204,7 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="PaymentSystem (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="P01 BillsPaymentSystem.App" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="PaymentSystem (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="P01 BillsPaymentSystem.Data" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="PaymentSystem (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="P01 BillsPaymentSystem.Data" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="EntityConfig" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="PaymentSystem (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="P01 BillsPaymentSystem.Data.Models" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -275,11 +271,13 @@
       <workItem from="1511967460757" duration="2114000" />
       <workItem from="1512077943227" duration="4276000" />
       <workItem from="1512130744704" duration="2975000" />
+      <workItem from="1512893607820" duration="1068000" />
+      <workItem from="1513286760878" duration="1138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32696000" />
+    <option name="totallyTimeSpent" value="34902000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -301,7 +299,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2932761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3018598" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -629,13 +627,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/CreditCardConfiguration.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data.Models/P01 BillsPaymentSystem.Data.Models.csproj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -731,10 +722,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/BankAccountConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1510919652000" expanded="false" signature="6:133" ph="..." />
+            <marker date="1510919652000" expanded="true" signature="256:735" ph="{...}" />
+            <marker date="1510919652000" expanded="true" signature="332:729" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/PaymentMethodConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <marker date="1510997588000" expanded="false" signature="6:179" ph="..." />
+            <marker date="1510997588000" expanded="true" signature="306:924" ph="{...}" />
+            <marker date="1510997588000" expanded="true" signature="384:918" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/CreditCardConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <marker date="1510919652000" expanded="false" signature="6:133" ph="..." />
+            <marker date="1510919652000" expanded="true" signature="254:522" ph="{...}" />
+            <marker date="1510919652000" expanded="true" signature="329:516" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/BillsPaymentSystemContext.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="36" column="64" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="64" />
+        <state relative-caret-position="289">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding>
             <marker date="1510919652000" expanded="false" signature="6:78" ph="..." />
             <marker date="1510919652000" expanded="true" signature="117:1293" ph="{...}" />
@@ -744,32 +771,6 @@
             <marker date="1510919652000" expanded="true" signature="741:912" ph="{...}" />
             <marker date="1510919652000" expanded="true" signature="797:902" ph="{...}" />
             <marker date="1510919652000" expanded="true" signature="983:1285" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/BankAccountConfiguration.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <marker date="1510919652000" expanded="false" signature="6:133" ph="..." />
-            <marker date="1510919652000" expanded="true" signature="172:737" ph="{...}" />
-            <marker date="1510919652000" expanded="true" signature="256:735" ph="{...}" />
-            <marker date="1510919652000" expanded="true" signature="332:729" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P01 BillsPaymentSystem.Data/EntityConfig/PaymentMethodConfiguration.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding>
-            <marker date="1510997588000" expanded="false" signature="6:179" ph="..." />
-            <marker date="1510997588000" expanded="true" signature="218:926" ph="{...}" />
-            <marker date="1510997588000" expanded="true" signature="306:924" ph="{...}" />
-            <marker date="1510997588000" expanded="true" signature="384:918" ph="{...}" />
           </folding>
         </state>
       </provider>

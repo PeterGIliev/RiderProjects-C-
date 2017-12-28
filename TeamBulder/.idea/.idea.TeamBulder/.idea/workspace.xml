@@ -1,7 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="411626e9-03ce-4273-9596-96e07b70b71b" name="Default" comment="" />
+    <list default="true" id="411626e9-03ce-4273-9596-96e07b70b71b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/contentModel.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/dataSources.local.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/dataSources.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/dataSources/39f579e3-88d7-48bf-9066-5b602e7da17e.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/dataSources/39f579e3-88d7-48bf-9066-5b602e7da17e/_metadata_/metadata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/dataSources/39f579e3-88d7-48bf-9066-5b602e7da17e/_metadata_/metadata.keystream" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/dataSources/39f579e3-88d7-48bf-9066-5b602e7da17e/_metadata_/metadata.keystream.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/dataSources/39f579e3-88d7-48bf-9066-5b602e7da17e/_metadata_/metadata.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/dataSources/39f579e3-88d7-48bf-9066-5b602e7da17e/_metadata_/metadata.values.at" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/dataSources/39f579e3-88d7-48bf-9066-5b602e7da17e/_metadata_/metadata_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/dataSources/39f579e3-88d7-48bf-9066-5b602e7da17e/_metadata_/metadata_i.len" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/dataSources/39f579e3-88d7-48bf-9066-5b602e7da17e/_src_/database/master/schema/dbo.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/dataSources/39f579e3-88d7-48bf-9066-5b602e7da17e/storage.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/indexLayout.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/.idea/.idea.Stations/riderModule.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/StartUp.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/Stations.App.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/bin/Debug/netcoreapp2.0/Stations.App.deps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/bin/Debug/netcoreapp2.0/Stations.App.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/bin/Debug/netcoreapp2.0/Stations.App.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/bin/Debug/netcoreapp2.0/Stations.App.runtimeconfig.dev.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/bin/Debug/netcoreapp2.0/Stations.App.runtimeconfig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/bin/Debug/netcoreapp2.0/Stations.Data.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/bin/Debug/netcoreapp2.0/Stations.Data.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/bin/Debug/netcoreapp2.0/Stations.Models.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/bin/Debug/netcoreapp2.0/Stations.Models.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/Debug/netcoreapp2.0/Stations.App.AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/Debug/netcoreapp2.0/Stations.App.AssemblyInfoInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/Debug/netcoreapp2.0/Stations.App.csproj.CopyComplete" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/Debug/netcoreapp2.0/Stations.App.csproj.CoreCompileInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/Debug/netcoreapp2.0/Stations.App.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/Debug/netcoreapp2.0/Stations.App.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/Debug/netcoreapp2.0/Stations.App.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/Debug/netcoreapp2.0/Stations.App.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/Stations.App.csproj.nuget.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/Stations.App.csproj.nuget.g.props" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/Stations.App.csproj.nuget.g.targets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/project.assets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.App/obj/project.packagespec.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/Configuration.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/EntityConfig/CustomerCardConfiguration.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/EntityConfig/SeatingClassConfiguration.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/EntityConfig/StationConfiguration.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/EntityConfig/TicketConfiguration.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/StationContext.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/Stations.Data.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Data.deps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Data.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Data.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Data.runtimeconfig.dev.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Data.runtimeconfig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Models.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/bin/Debug/netcoreapp2.0/Stations.Models.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/bin/Debug/netstandard2.0/Stations.Data.deps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/bin/Debug/netstandard2.0/Stations.Data.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/bin/Debug/netstandard2.0/Stations.Data.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/bin/Debug/netstandard2.0/Stations.Models.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/bin/Debug/netstandard2.0/Stations.Models.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netcoreapp2.0/Stations.Data.AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netcoreapp2.0/Stations.Data.AssemblyInfoInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netcoreapp2.0/Stations.Data.csproj.CopyComplete" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netcoreapp2.0/Stations.Data.csproj.CoreCompileInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netcoreapp2.0/Stations.Data.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netcoreapp2.0/Stations.Data.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netcoreapp2.0/Stations.Data.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netstandard2.0/Stations.Data.AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netstandard2.0/Stations.Data.AssemblyInfoInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netstandard2.0/Stations.Data.csproj.CopyComplete" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netstandard2.0/Stations.Data.csproj.CoreCompileInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netstandard2.0/Stations.Data.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netstandard2.0/Stations.Data.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Debug/netstandard2.0/Stations.Data.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Stations.Data.csproj.EntityFrameworkCore.targets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Stations.Data.csproj.nuget.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Stations.Data.csproj.nuget.g.props" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/Stations.Data.csproj.nuget.g.targets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/project.assets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Data/obj/project.packagespec.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/CardType.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/CustomerCard.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/SeatingClass.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/Station.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/Stations.Models.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/Status.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/Ticket.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/Train.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/TrainSeat.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/Trip.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/Type.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/bin/Debug/netstandard2.0/Stations.Models.deps.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/bin/Debug/netstandard2.0/Stations.Models.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/bin/Debug/netstandard2.0/Stations.Models.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/obj/Debug/netstandard2.0/Stations.Models.AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/obj/Debug/netstandard2.0/Stations.Models.AssemblyInfoInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/obj/Debug/netstandard2.0/Stations.Models.csproj.CoreCompileInputs.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/obj/Debug/netstandard2.0/Stations.Models.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/obj/Debug/netstandard2.0/Stations.Models.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/obj/Debug/netstandard2.0/Stations.Models.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/obj/Stations.Models.csproj.nuget.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/obj/Stations.Models.csproj.nuget.g.props" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/obj/Stations.Models.csproj.nuget.g.targets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/obj/project.assets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.Models/obj/project.packagespec.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Stations/Stations.sln" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProductShop/ProductShop.App/bin/Debug/netcoreapp2.0/ProductShop.App.dll" afterPath="$PROJECT_DIR$/../ProductShop/ProductShop.App/bin/Debug/netcoreapp2.0/ProductShop.App.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProductShop/ProductShop.App/bin/Debug/netcoreapp2.0/ProductShop.App.pdb" afterPath="$PROJECT_DIR$/../ProductShop/ProductShop.App/bin/Debug/netcoreapp2.0/ProductShop.App.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProductShop/ProductShop.App/bin/Debug/netcoreapp2.0/ProductShop.Data.dll" afterPath="$PROJECT_DIR$/../ProductShop/ProductShop.App/bin/Debug/netcoreapp2.0/ProductShop.Data.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProductShop/ProductShop.App/obj/Debug/netcoreapp2.0/ProductShop.App.dll" afterPath="$PROJECT_DIR$/../ProductShop/ProductShop.App/obj/Debug/netcoreapp2.0/ProductShop.App.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProductShop/ProductShop.App/obj/Debug/netcoreapp2.0/ProductShop.App.pdb" afterPath="$PROJECT_DIR$/../ProductShop/ProductShop.App/obj/Debug/netcoreapp2.0/ProductShop.App.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProductShop/ProductShop.Data/bin/Debug/netstandard2.0/ProductShop.Data.dll" afterPath="$PROJECT_DIR$/../ProductShop/ProductShop.Data/bin/Debug/netstandard2.0/ProductShop.Data.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProductShop/ProductShop.Data/obj/Debug/netstandard2.0/ProductShop.Data.dll" afterPath="$PROJECT_DIR$/../ProductShop/ProductShop.Data/obj/Debug/netstandard2.0/ProductShop.Data.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamBuilder.App/bin/Debug/netcoreapp2.0/TeamBulder.Data.dll" afterPath="$PROJECT_DIR$/TeamBuilder.App/bin/Debug/netcoreapp2.0/TeamBulder.Data.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamBulder.Data/bin/Debug/netcoreapp2.0/TeamBulder.Data.dll" afterPath="$PROJECT_DIR$/TeamBulder.Data/bin/Debug/netcoreapp2.0/TeamBulder.Data.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamBulder.Data/obj/Debug/netcoreapp2.0/TeamBulder.Data.dll" afterPath="$PROJECT_DIR$/TeamBulder.Data/obj/Debug/netcoreapp2.0/TeamBulder.Data.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProductShop/.idea/.idea.ProductShop/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ProductShop/.idea/.idea.ProductShop/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProductShop/ProductShop.App/StartUp.cs" afterPath="$PROJECT_DIR$/../ProductShop/ProductShop.App/StartUp.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ProductShop/ProductShop.Data/obj/Debug/netstandard2.0/ProductShop.Data.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/../ProductShop/ProductShop.Data/obj/Debug/netstandard2.0/ProductShop.Data.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.TeamBulder/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TeamBulder/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,10 +163,9 @@
         <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/User.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="464">
-              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+              <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="32" />
               <folding>
                 <marker date="1512155559000" expanded="false" signature="6:116" ph="..." />
-                <marker date="1512155559000" expanded="true" signature="146:1183" ph="{...}" />
                 <marker date="1512155559000" expanded="true" signature="170:1181" ph="{...}" />
                 <marker date="1512155559000" expanded="true" signature="198:406" ph="{...}" />
               </folding>
@@ -53,14 +173,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartUp.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StartUp.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TeamBuilder.App/StartUp.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            <state relative-caret-position="784">
+              <caret line="55" column="45" lean-forward="false" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
               <folding>
                 <marker date="1512322035000" expanded="false" signature="6:197" ph="..." />
-                <marker date="1512322035000" expanded="true" signature="224:1783" ph="{...}" />
                 <marker date="1512322035000" expanded="true" signature="244:1781" ph="{...}" />
                 <marker date="1512322035000" expanded="true" signature="290:1333" ph="{...}" />
                 <marker date="1512322035000" expanded="true" signature="356:668" ph="/* var user = new User() ... */" />
@@ -72,42 +191,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Team.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/Team.cs">
+      <file leaf-file-name="TeamBuilderContext.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TeamBulder.Data/TeamBuilderContext.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="191">
+              <caret line="18" column="9" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
               <folding>
-                <marker date="1512152201000" expanded="false" signature="6:104" ph="..." />
-                <marker date="1512152201000" expanded="true" signature="158:868" ph="{...}" />
-                <marker date="1512152201000" expanded="true" signature="186:350" ph="{...}" />
+                <marker date="1512152200000" expanded="false" signature="6:133" ph="..." />
+                <marker date="1512152200000" expanded="true" signature="210:1512" ph="{...}" />
+                <marker date="1512152200000" expanded="true" signature="252:285" ph="{...}" />
+                <marker date="1512152200000" expanded="true" signature="382:415" ph="{...}" />
+                <marker date="1512152200000" expanded="true" signature="838:1009" ph="{...}" />
+                <marker date="1512152200000" expanded="true" signature="894:999" ph="{...}" />
+                <marker date="1512152200000" expanded="true" signature="1080:1506" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Invitation.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/Invitation.cs">
+      <file leaf-file-name="UserTeamConfiguration.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TeamBulder.Data/EntityConfig/UserTeamConfiguration.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="128">
+              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding>
-                <marker date="1512160261000" expanded="true" signature="58:415" ph="{...}" />
-                <marker date="1512160261000" expanded="true" signature="92:146" ph="{...}" />
+                <marker date="1512152201000" expanded="false" signature="6:117" ph="..." />
+                <marker date="1512152201000" expanded="true" signature="235:720" ph="{...}" />
+                <marker date="1512152201000" expanded="true" signature="308:714" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Event.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/Event.cs">
+      <file leaf-file-name="UserTeam.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/UserTeam.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="128">
+              <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
               <folding>
-                <marker date="1512159834000" expanded="false" signature="6:99" ph="..." />
-                <marker date="1512159834000" expanded="true" signature="154:857" ph="{...}" />
-                <marker date="1512159834000" expanded="true" signature="183:269" ph="{...}" />
+                <marker date="1512133772000" expanded="true" signature="56:227" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -178,9 +300,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="722" />
-    <option name="width" value="718" />
-    <option name="height" value="900" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="817" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -204,22 +326,7 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TeamBulder (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TeamBulder (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="TeamBuilder.App" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TeamBulder (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="TeamBuilder.Models" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TeamBulder (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="TeamBulder.Data" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TeamBulder (loading...)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -280,12 +387,15 @@
       <workItem from="1512321515536" duration="4262000" />
       <workItem from="1512374526926" duration="196000" />
       <workItem from="1512398002894" duration="20000" />
-      <workItem from="1512404055433" duration="1059000" />
+      <workItem from="1512404055433" duration="1303000" />
+      <workItem from="1512422208977" duration="1879000" />
+      <workItem from="1512482522034" duration="3740000" />
+      <workItem from="1512684216566" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20934000" />
+    <option name="totallyTimeSpent" value="26816000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,28 +408,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.286578" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21316166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22174536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -341,11 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding>
-            <marker date="1512152201000" expanded="false" signature="6:104" ph="..." />
-            <marker date="1512152201000" expanded="true" signature="158:868" ph="{...}" />
-            <marker date="1512152201000" expanded="true" signature="186:350" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -353,10 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <marker date="1512160261000" expanded="true" signature="58:415" ph="{...}" />
-            <marker date="1512160261000" expanded="true" signature="92:146" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -364,11 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <marker date="1512159834000" expanded="false" signature="6:99" ph="..." />
-            <marker date="1512159834000" expanded="true" signature="154:857" ph="{...}" />
-            <marker date="1512159834000" expanded="true" signature="183:269" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -378,7 +473,6 @@
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="44" />
           <folding>
             <marker date="1512322035000" expanded="false" signature="6:197" ph="..." />
-            <marker date="1512322035000" expanded="true" signature="224:1783" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="244:1781" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="290:1333" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="356:668" ph="/* var user = new User() ... */" />
@@ -395,7 +489,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1512155559000" expanded="false" signature="6:116" ph="..." />
-            <marker date="1512155559000" expanded="true" signature="146:1183" ph="{...}" />
             <marker date="1512155559000" expanded="true" signature="170:1181" ph="{...}" />
             <marker date="1512155559000" expanded="true" signature="198:406" ph="{...}" />
           </folding>
@@ -408,7 +501,6 @@
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="44" />
           <folding>
             <marker date="1512322035000" expanded="false" signature="6:197" ph="..." />
-            <marker date="1512322035000" expanded="true" signature="224:1783" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="244:1781" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="290:1333" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="356:668" ph="/* var user = new User() ... */" />
@@ -423,11 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding>
-            <marker date="1512152201000" expanded="false" signature="6:104" ph="..." />
-            <marker date="1512152201000" expanded="true" signature="158:868" ph="{...}" />
-            <marker date="1512152201000" expanded="true" signature="186:350" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -435,10 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <marker date="1512160261000" expanded="true" signature="58:415" ph="{...}" />
-            <marker date="1512160261000" expanded="true" signature="92:146" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -446,11 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <marker date="1512159834000" expanded="false" signature="6:99" ph="..." />
-            <marker date="1512159834000" expanded="true" signature="154:857" ph="{...}" />
-            <marker date="1512159834000" expanded="true" signature="183:269" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -460,7 +538,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1512155559000" expanded="false" signature="6:116" ph="..." />
-            <marker date="1512155559000" expanded="true" signature="146:1183" ph="{...}" />
             <marker date="1512155559000" expanded="true" signature="170:1181" ph="{...}" />
             <marker date="1512155559000" expanded="true" signature="198:406" ph="{...}" />
           </folding>
@@ -473,7 +550,6 @@
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="44" />
           <folding>
             <marker date="1512322035000" expanded="false" signature="6:197" ph="..." />
-            <marker date="1512322035000" expanded="true" signature="224:1783" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="244:1781" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="290:1333" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="356:668" ph="/* var user = new User() ... */" />
@@ -488,11 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding>
-            <marker date="1512152201000" expanded="false" signature="6:104" ph="..." />
-            <marker date="1512152201000" expanded="true" signature="158:868" ph="{...}" />
-            <marker date="1512152201000" expanded="true" signature="186:350" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -500,10 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <marker date="1512160261000" expanded="true" signature="58:415" ph="{...}" />
-            <marker date="1512160261000" expanded="true" signature="92:146" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -511,11 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <marker date="1512159834000" expanded="false" signature="6:99" ph="..." />
-            <marker date="1512159834000" expanded="true" signature="154:857" ph="{...}" />
-            <marker date="1512159834000" expanded="true" signature="183:269" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -525,7 +587,6 @@
           <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding>
             <marker date="1512155559000" expanded="false" signature="6:116" ph="..." />
-            <marker date="1512155559000" expanded="true" signature="146:1183" ph="{...}" />
             <marker date="1512155559000" expanded="true" signature="170:1181" ph="{...}" />
             <marker date="1512155559000" expanded="true" signature="198:406" ph="{...}" />
           </folding>
@@ -536,11 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding>
-            <marker date="1512152201000" expanded="false" signature="6:104" ph="..." />
-            <marker date="1512152201000" expanded="true" signature="158:868" ph="{...}" />
-            <marker date="1512152201000" expanded="true" signature="186:350" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -548,10 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <marker date="1512160261000" expanded="true" signature="58:415" ph="{...}" />
-            <marker date="1512160261000" expanded="true" signature="92:146" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -559,11 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <marker date="1512159834000" expanded="false" signature="6:99" ph="..." />
-            <marker date="1512159834000" expanded="true" signature="154:857" ph="{...}" />
-            <marker date="1512159834000" expanded="true" signature="183:269" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -585,11 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding>
-            <marker date="1512152201000" expanded="false" signature="6:104" ph="..." />
-            <marker date="1512152201000" expanded="true" signature="158:868" ph="{...}" />
-            <marker date="1512152201000" expanded="true" signature="186:350" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -623,20 +665,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TeamBulder.Data/Class1.cs" />
     <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/Class1.cs" />
-    <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/Gender.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/UserTeam.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TeamBuilder.Data/EntityConfig/EventTeamConfiguration.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -676,13 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TeamBulder.Data/Configuration.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -728,20 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TeamBulder.Data/EntityConfig/UserTeamConfiguration.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TeamBulder.Data/TeamBuilderContext.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d7feb23e-e0b0-400f-965a-3d6244b54fc5/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -749,26 +756,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/Team.cs">
+    <entry file="file://$PROJECT_DIR$/TeamBulder.Data/Configuration.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding>
-            <marker date="1512152201000" expanded="false" signature="6:104" ph="..." />
-            <marker date="1512152201000" expanded="true" signature="158:868" ph="{...}" />
-            <marker date="1512152201000" expanded="true" signature="186:350" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/Invitation.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <marker date="1512160261000" expanded="true" signature="58:415" ph="{...}" />
-            <marker date="1512160261000" expanded="true" signature="92:146" ph="{...}" />
-          </folding>
+        <state relative-caret-position="80">
+          <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -776,11 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <marker date="1512159834000" expanded="false" signature="6:99" ph="..." />
-            <marker date="1512159834000" expanded="true" signature="154:857" ph="{...}" />
-            <marker date="1512159834000" expanded="true" signature="183:269" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -788,20 +774,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <marker date="1512134418000" expanded="true" signature="28:233" ph="{...}" />
-            <marker date="1512134418000" expanded="true" signature="57:231" ph="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/Gender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/Invitation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/Team.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/User.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
-          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="32" />
           <folding>
             <marker date="1512155559000" expanded="false" signature="6:116" ph="..." />
-            <marker date="1512155559000" expanded="true" signature="146:1183" ph="{...}" />
             <marker date="1512155559000" expanded="true" signature="170:1181" ph="{...}" />
             <marker date="1512155559000" expanded="true" signature="198:406" ph="{...}" />
           </folding>
@@ -810,17 +812,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TeamBuilder.App/StartUp.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        <state relative-caret-position="784">
+          <caret line="55" column="45" lean-forward="false" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
           <folding>
             <marker date="1512322035000" expanded="false" signature="6:197" ph="..." />
-            <marker date="1512322035000" expanded="true" signature="224:1783" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="244:1781" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="290:1333" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="356:668" ph="/* var user = new User() ... */" />
             <marker date="1512322035000" expanded="true" signature="841:882" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="945:985" ph="{...}" />
             <marker date="1512322035000" expanded="true" signature="1417:1775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamBuilder.Models/UserTeam.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <marker date="1512133772000" expanded="true" signature="56:227" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamBulder.Data/EntityConfig/UserTeamConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <marker date="1512152201000" expanded="false" signature="6:117" ph="..." />
+            <marker date="1512152201000" expanded="true" signature="235:720" ph="{...}" />
+            <marker date="1512152201000" expanded="true" signature="308:714" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamBulder.Data/TeamBuilderContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <marker date="1512152200000" expanded="false" signature="6:133" ph="..." />
+            <marker date="1512152200000" expanded="true" signature="210:1512" ph="{...}" />
+            <marker date="1512152200000" expanded="true" signature="252:285" ph="{...}" />
+            <marker date="1512152200000" expanded="true" signature="382:415" ph="{...}" />
+            <marker date="1512152200000" expanded="true" signature="838:1009" ph="{...}" />
+            <marker date="1512152200000" expanded="true" signature="894:999" ph="{...}" />
+            <marker date="1512152200000" expanded="true" signature="1080:1506" ph="{...}" />
           </folding>
         </state>
       </provider>

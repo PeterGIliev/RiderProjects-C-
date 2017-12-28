@@ -1,0 +1,45 @@
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/bin/Debug/netcoreapp2.0/BMS.Data.dll
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/bin/Debug/netcoreapp2.0/BMS.Models.dll
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.csprojResolveAssemblyReference.cache
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.csproj.CoreCompileInputs.cache
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.AssemblyInfoInputs.cache
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.AssemblyInfo.cs
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.deps.json
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.runtimeconfig.json
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.runtimeconfig.dev.json
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.dll
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.pdb
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/bin/Debug/netcoreapp2.0/BMS.Data.pdb
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/bin/Debug/netcoreapp2.0/BMS.Models.pdb
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.dll
+C:/Users/sap.phire/Desktop/BMS/BMS/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.pdb
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.deps.json
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.runtimeconfig.json
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.runtimeconfig.dev.json
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.dll
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.pdb
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.Data.dll
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.Models.dll
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.Data.pdb
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.Models.pdb
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.csprojResolveAssemblyReference.cache
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.csproj.CoreCompileInputs.cache
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.AssemblyInfoInputs.cache
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.AssemblyInfo.cs
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.dll
+//vmware-host/Shared Folders/Desktop/Git/CRM/BusinessManagementSystem/CompleteDatabase/DB/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.pdb
+/Users/peter/RiderProjects/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.deps.json
+/Users/peter/RiderProjects/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.runtimeconfig.json
+/Users/peter/RiderProjects/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.runtimeconfig.dev.json
+/Users/peter/RiderProjects/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.dll
+/Users/peter/RiderProjects/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.App.pdb
+/Users/peter/RiderProjects/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.Data.dll
+/Users/peter/RiderProjects/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.Models.dll
+/Users/peter/RiderProjects/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.Data.pdb
+/Users/peter/RiderProjects/DB/BMS.App/bin/Debug/netcoreapp2.0/BMS.Models.pdb
+/Users/peter/RiderProjects/DB/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/DB/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/DB/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.AssemblyInfoInputs.cache
+/Users/peter/RiderProjects/DB/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.AssemblyInfo.cs
+/Users/peter/RiderProjects/DB/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.dll
+/Users/peter/RiderProjects/DB/BMS.App/obj/Debug/netcoreapp2.0/BMS.App.pdb

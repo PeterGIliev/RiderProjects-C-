@@ -80,7 +80,7 @@ namespace ProductShop.App
                 context.SaveChanges();
             }
 
-            return $"{categories .Length} categories were imported from file: {path}";
+            return $"{categories.Length} categories were imported from file: {path}";
         }
         
         //JSON------------

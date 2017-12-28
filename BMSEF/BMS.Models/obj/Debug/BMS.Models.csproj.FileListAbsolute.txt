@@ -1,0 +1,6 @@
+/Users/peter/RiderProjects/BMSEF/BMS.Models/bin/Debug/BMS.Models.dll
+/Users/peter/RiderProjects/BMSEF/BMS.Models/bin/Debug/BMS.Models.pdb
+/Users/peter/RiderProjects/BMSEF/BMS.Models/obj/Debug/BMS.Models.csprojResolveAssemblyReference.cache
+/Users/peter/RiderProjects/BMSEF/BMS.Models/obj/Debug/BMS.Models.csproj.CoreCompileInputs.cache
+/Users/peter/RiderProjects/BMSEF/BMS.Models/obj/Debug/BMS.Models.dll
+/Users/peter/RiderProjects/BMSEF/BMS.Models/obj/Debug/BMS.Models.pdb
